@@ -62,6 +62,15 @@ Blessed System:               Arch Linux (i use arch btw)
 >
 > Actions: `Unholy code shall be erased at all cost`
 
+> [!CAUTION]
+> Unauthorized subroutine detected from User : [TsukiNi22](https://github.com/TsukiNi22)
+>
+> Type: `system_analysis`
+>
+> Status: `FORBIDDEN SYSTEM`
+>
+> Actions: `Non Arch Linux users shall perish`
+
 ---
 
 ## 📊 ./User-Stats.html
