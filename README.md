@@ -74,7 +74,7 @@ Blessed System:               Arch Linux (i use arch btw)
 ---
 
 ## 📊 ./User-Stats.html
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YetAnotherMechanicusEnjoyer&show_icons=true&theme=tokyonight&hide=issues" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YetAnotherMechanicusEnjoyer&layout=compact&theme=tokyonight&langs_count=8" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=YetAnotherMechanicusEnjoyer&theme=tokyonight&border_radius=5" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YetAnotherMechanicusEnjoyer&theme=synthwave&show_icons=true&hide_border=true&count_private=true" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YetAnotherMechanicusEnjoyer&theme=synthwave&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YetAnotherMechanicusEnjoyer&theme=synthwave&show_icons=true&hide_border=true&layout=compact" /> </p>
 
 ---
 
