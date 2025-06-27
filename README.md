@@ -74,7 +74,7 @@ Blessed System:               Arch Linux (i use arch btw)
 ---
 
 ## 📊 ./User-Stats.html
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YetAnotherMechanicusEnjoyer&theme=radical&show_icons=true&hide_border=true&count_private=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YetAnotherMechanicusEnjoyer&theme=radical&show_icons=true&hide_border=true&layout=compact" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YetAnotherMechanicusEnjoyer&theme=radical&hide_border=true" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YetAnotherMechanicusEnjoyer&theme=radical&show_icons=true&hide_border=true&count_private=true" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YetAnotherMechanicusEnjoyer&theme=radical&hide_border=true" /> </p> <p align="center"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YetAnotherMechanicusEnjoyer&theme=radical" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YetAnotherMechanicusEnjoyer&theme=radical&show_icons=true&hide_border=true&layout=compact" /> <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YetAnotherMechanicusEnjoyer&theme=radical" /> </p>
 
 ---
 
