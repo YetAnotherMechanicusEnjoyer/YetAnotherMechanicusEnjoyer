@@ -24,7 +24,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YetAnotherMechanicusEnjoyer&label=Cogitator+Scans&color=ff0000&style=flat-square" />
   <img src="https://img.shields.io/badge/Machine%20Spirit-Stable%E2%9C%94-00ff99?style=flat-square" />
-  <img src="https://img.shields.io/badge/Purity%20Seal%A9-Valid%A9-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/Purity%20Seal-Valid-red?style=flat-square" />
 </p>
 
 > Initiating connection... Handshake with Omnissiah Subnet [SUCCESS]
