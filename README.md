@@ -22,9 +22,13 @@
 <h1 align="center">🔧 Tech-Priest Profile: <code>YetAnotherMechanicusEnjoyer</code></h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YetAnotherMechanicusEnjoyer&label=Cogitator+Scans&color=ff0000&style=flat-square" />
-  <img src="https://img.shields.io/badge/Machine%20Spirit-Stable%E2%9C%94-00ff99?style=flat-square" />
-  <img src="https://img.shields.io/badge/Purity%20Seal-Valid-red?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=YetAnotherMechanicusEnjoyer&label=Cogitator+Scans&color=ff0000&style=flat-square">
+  <img src="https://img.shields.io/badge/Machine%20Spirit-Stable%E2%9C%94-00ff99?style=flat-square">
+  <img src="https://img.shields.io/badge/Purity%20Seal-Valid-red?style=flat-square">
+</p>
+<p align="center">
+  <a href="https://discordapp.com/users/391279107733848085"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/ahmed-al-rawi-372676259/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"></a>
 </p>
 
 > Initiating connection... Handshake with Omnissiah Subnet [SUCCESS]
