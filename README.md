@@ -78,6 +78,7 @@ Blessed System:               Arch Linux (i use arch btw)
 ---
 
 ## 📊 ./User-Stats.html
+<details open><summary>Github Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=YetAnotherMechanicusEnjoyer&theme=radical&show_icons=true&hide_border=true&count_private=true"><img src="https://github-readme-streak-stats.herokuapp.com/?user=YetAnotherMechanicusEnjoyer&theme=radical&hide_border=true">
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YetAnotherMechanicusEnjoyer&theme=radical" height="165"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YetAnotherMechanicusEnjoyer&theme=radical" height="165"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YetAnotherMechanicusEnjoyer&theme=radical&show_icons=true&hide_border=true&layout=compact" height="165">
@@ -85,7 +86,11 @@ Blessed System:               Arch Linux (i use arch btw)
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YetAnotherMechanicusEnjoyer&theme=radical">
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=YetAnotherMechanicusEnjoyer&theme=radical"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YetAnotherMechanicusEnjoyer&theme=radical&utcOffset=+2">
+</details>
 
+<details open><summary>Steam Stats</summary>
+  
+</details>
 ---
 
 ## 📜 ./Omnissiah's-Wisdom.txt
