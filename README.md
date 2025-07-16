@@ -80,11 +80,11 @@ Blessed System:               Arch Linux (i use arch btw)
 ## 📊 ./User-Stats.html
 <img src="https://github-readme-stats.vercel.app/api?username=YetAnotherMechanicusEnjoyer&theme=radical&show_icons=true&hide_border=true&count_private=true"><img src="https://github-readme-streak-stats.herokuapp.com/?user=YetAnotherMechanicusEnjoyer&theme=radical&hide_border=true">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YetAnotherMechanicusEnjoyer&theme=radical" height="165"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YetAnotherMechanicusEnjoyer&theme=radical" height="165"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YetAnotherMechanicusEnjoyer&theme=radical&show_icons=true&hide_border=true&layout=compact" height="165">
+<img src="./profile-summary-card-output/radical/1-repos-per-language.svg" height="165"><img src="./profile-summary-card-output/radical/2-most-commit-language.svg" height="165"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YetAnotherMechanicusEnjoyer&theme=radical&show_icons=true&hide_border=true&layout=compact" height="165">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YetAnotherMechanicusEnjoyer&theme=radical">
+<img src="./profile-summary-card-output/radical/0-profile-details.svg">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=YetAnotherMechanicusEnjoyer&theme=radical"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YetAnotherMechanicusEnjoyer&theme=radical&utcOffset=+2">
+<img src="./profile-summary-card-output/radical/3-stats.svg"><img src="./profile-summary-card-output/radical/4-productive-time.svg">
 
 ---
 
