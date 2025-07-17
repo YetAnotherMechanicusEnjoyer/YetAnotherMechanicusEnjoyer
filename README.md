@@ -89,6 +89,7 @@ Blessed System:               Arch Linux (i use arch btw)
 
 <img src="metrics.plugin.isocalendar.fullyear.svg">
 
+<!--<img src="metrics.plugin.achievements.compact.svg">-->
 </details>
 
 <details open><summary>Steam Stats</summary>
