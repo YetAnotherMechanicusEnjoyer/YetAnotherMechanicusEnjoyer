@@ -86,11 +86,15 @@ Blessed System:               Arch Linux (i use arch btw)
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YetAnotherMechanicusEnjoyer&theme=radical">
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=YetAnotherMechanicusEnjoyer&theme=radical"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YetAnotherMechanicusEnjoyer&theme=radical&utcOffset=+2">
+
+<img src="metrics.plugin.isocalendar.fullyear.svg">
+
 </details>
 
 <details open><summary>Steam Stats</summary>
-  
+  <img src="./metrics.plugin.steam.full.svg">
 </details>
+
 ---
 
 ## 📜 ./Omnissiah's-Wisdom.txt
