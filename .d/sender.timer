@@ -1,0 +1,14 @@
+# /etc/systemd/system/sender.timer
+
+[Unit]
+Description=Sender
+Requires=sender.service
+After=network-online.target
+
+[Timer]
+OnBootSec=10s
+OnUnitActiveSec=10s
+Persistent=true
+
+[Install]
+WantedBy=timers.target
