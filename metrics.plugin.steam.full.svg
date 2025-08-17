@@ -39,7 +39,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"/>
                             </svg>
-                            4.93k hours played
+                            4.94k hours played
                         </div>
                     </section>
                 </div>
@@ -273,7 +273,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        14 hours played
+                                        15 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -281,7 +281,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 16 Aug 2025
+                                        Last played on 17 Aug 2025
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -290,32 +290,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            17 / 42 achievements unlocked
+                                            22 / 42 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGwABAAEFAQAAAAAAAAAAAAAABwgBAgMEBQb/xAAvEAABAwMBBQcDBQAAAAAAAAABAgMEBQYRABITIUFxBxQiMTJhckJRUmKRobHR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgMF/8QAJBEAAgECBAcBAAAAAAAAAAAAAQIDAAQREiFBYXGBscHR8DH/2gAMAwEAAhEDEQA/AI/2dbCKm2uoVRTjVMaVsAI9b6/wT/GT7gDjpUpVuux2x3OJApTRHABnevH5KP8Ap13ey20mavXYtKVIajRqVDbXlWMlxfqUBzVnPTOlC56xYXZ13dE+M7UJaynIQjfqSD9RPoHsnzOtdHhtAFYFn4e9ulZEgmuiSpAXj6oOq9sPSW1KlRYNVaA44a3Lw+KhwJ6kaJ7st4UotyoSlu055RSkrGFtqHmhY5Eal7L7b7aegLYoEOQqSpON09FKdnI/AZ2v60IV6IupU+f3uGYnf2HXQyo5KVtYKVn7Eg8eg02QXSFimU7a4n7nRRzbOFz5hvph90retapNPyosoEbupRWwlXIOtghSOvE/tr03aLf1Wbs1FtwqRT26c40ltUlbu26pQIO0lHDCs8c+LQBalyCmNrhT0LepzigvCDhbS+S0HkdKdHuhMhCNzMp9RAHhU44GHkj9QIxn3GNUjeK7jCv+jvy3qckctrIWQaHtWS3DJl112rSoL7TrzaWPCnZbSkAZWVKxknHkBq+8qi1HiT5KiNmJGWzn7uuY8PUADPyGqVW62oqCZc2HCTjybc37x+IAwOvHRNeNzGtLbjxEKZpzJJQhRypaj5rUeZOqXNykMZUHE+aFvbPNIGIwHiv/2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwgEBv/EACoQAAIBAwMEAQMFAQAAAAAAAAECAwQFEQASIQYHMUFhEzJRFCJxgZGh/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAMEAQL/xAAjEQEAAgEEAQUBAQAAAAAAAAABAxECAAQhMRJRYXGRsRPB/9oADAMBAAIRAxEAPwCY7ZaLhdPqG30c1QIxlyi5C/ydOHTHTVpsNjp3qaWOWrdSZHZdzFgF3AftY4BcAKoHAJJ1g7KVlNU2GS3woi1iMw3yRhlVmOQ5yCPtUjODjb4xpI6es1d1VDPTQrBbrbHhpZUgMgmmAwdm78fJ4BwBp0+4x2cYR2yZljxQXz8V1f1qvbbb+oyZoYnf+Hu6Iu53RiywUFysdEwkqY/qPCgAJXkZAwN3K8EAZBBxomdWRyrqVZTggjBB1X8dnqp7Uk9juU1yKLmWjrkDIyhA21SBw2CvjxnzoS70WGlhFDfbcjLBWqCQfIzng/IIK594Gswmx3eKpUgW+mQcKdU+pXvrmeAwPONvG/hP391s7ByozXCmXAmduPktFIq/9OP71RPb2tji6Q+mxgieB3AAfkliSMg+yT451FnTN7qLBdErKbkfbImcb1/GfR9g+jp0sfcGwXUpNLWPQV5IZmG0bm/LKcAn5U/ONK3G3k3BhJBzliOLjYKXYl8PdJqjaSxMWUEr422PZfVNc6a4YaCyW0xiI/pEhd5lXk7pWyxP+/5oE7ytDS9vbbTMFWSWRpI1AxtVpCRx/AJ/vXSXTrLp2jjknuN5evY4YwAKiyFRgbtpJPHoaDO4XWFR1ddzUSZSmj4ij8YHjx64wMeho2u3lgyZpzx4QLLV4VC6A+3RuM4Y4mKPLyVFS6Avjmm2/TX/2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Survivalist Badge</div>
-                                                <div class="unlocked">25 Jun 2025</div>
+                                                <div>Speed Climber Badge</div>
+                                                <div class="unlocked">17 Aug 2025</div>
                                             </div>
-                                            <div class="description">Escape the island without ever losing consciousness.</div>
+                                            <div class="description">Escape the island in under an hour.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABwgEBQYJ/8QAMRAAAgEDAgMFBQkAAAAAAAAAAQIDBAURAAYHEiEiMUFRcRNCUoHBMkNhcoKRobHR/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgUDBP/EACYRAAEDAwIGAwEAAAAAAAAAAAECAxEABCExQQUSUWGRsXGB4fH/2gAMAwEAAhEDEQA/AFYp4ZKmoiggRpJpWCIijJZicAD8c6KdJwfYVcEFff6BJ0Iasp4wS0Sd7crHozAfLUfgvaVinrtz1MfPHbh7KlU+/UuOmPyg59SNN7QbBs9fse3W2qImbmWserjxzPK2C5z8LDKkfD6a5lqWokJMAYmJz+D3WghOoknbtQRuXDS13LbNPy2Cnt1LcA0VqrIiRMJR9gy571kAOM+XhkaWiupZqGsnpalCk8LtG6nwYHBGujO45bPe9nXNVq40pIgVWaP7mVDlCo8wwGPPSV8abSDV0W4YIwiXBfZ1IA6LUJ0b9/ppJSpogEGDjPXXfqPXejzhyYInXHT+0RNuWwWqwbftPLytBTCuqR5zSdRn0Bx+nW8ot23Oj29JaIHUQvkLJ150U96qfL+snQct/E6x1kUM13S6UlwESRTNS8rRycowGAPUatU4l7LRj29xSKF6cyx9pvoNUrG9t2bcNPNkqmTgaz81OvLO4dfLjawBEDO3itfkhSuSF8Rnpqh3VaRedvXm2Edp4jXU58pYx2h8xj+dUjcS9rN718X0WP8A3UG78ULRT0FUtkguFTXzRNCk1YyhIgwwSAO86XEeJtXjBbQhXNgiQNR90bHhztq8HFKEb528V//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAABwUGAwQI/8QALxAAAQMDAQYFAgcAAAAAAAAAAQIDBAUGEQAHEhMhMUEiI1JhcRQWMnKBgpGhwf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAJREAAQMEAgEEAwAAAAAAAAAAAQMRQQACITEEIhMSFFGxYXHR/9oADAMBAAIRAxEAPwAS2c2Q1WmHqzXnXI1CjK3SUclyF+hHt0yffA59F60oKpNYhUq1aNT6UmSrCXVs8RzcHValHnyAPfUNcj0S3INGpDrnBiQYrYxgnfdUMqJx3zvH9dY6JtdYtqowpdOpjc52PHWx5nkjxKznIBJ5ctJx+KmsgeQt2Jf02vgCCRL7zUy/JUsW8KWANn7zDUs3bsllyWFrfi0q4WgDlCmPpZP7FgkE+xI1zBtGskW8pufTFPO0h9Zb81OHIzg6tODsRz/jSfYF+3RfG3K3ZkyQ6ttMheIjGQywyUKC/D8dVHmdKW3C2orzsxCUJS3WoLynU9hIZAUlz5IOD+UagUT9t2tw2SIacQ28fqrk1PN1MzLx/KDNpT7lVoFGrcTdXCmxmw6QM7jiBgjPbBzo11N2FeTVIiv0ausKl0GUreUhP42F+tH+jVl+yKZWDxrYuCBJaXzDTrgbcT7FJ56oQ5FqFoSVLNow0Zgj80KqBUuKiYd9iXrW2VtVmNc1OnUuQ5FaEhG+Q8WkvBKgdxRBGUkjn20tXVfFQq9PqlarPAajU2I62w20jCeK6AkJySSTgf2NVFqHBt2BHRX61ToaWUAbrLnFdVj0pHQ/OdHG0W9UXAGKbSGlxaJFUVIQo+N5Z6uL99LylkFrPEh2J3dAEsZfWKHjIr2KeRbqBofJh/uv/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Peak Badge</div>
-                                                <div class="unlocked">25 Jun 2025</div>
+                                                <div>Lone Wolf Badge</div>
+                                                <div class="unlocked">17 Aug 2025</div>
                                             </div>
-                                            <div class="description">Reach the PEAK.</div>
+                                            <div class="description">Escape the island in a solo expedition.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+15 others...</div>
+                                            <div class="description ellipsis">+20 others...</div>
                                         </div>
                                     </div>
                                 </div>
