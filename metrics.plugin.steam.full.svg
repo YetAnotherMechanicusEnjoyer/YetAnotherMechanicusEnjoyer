@@ -290,32 +290,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            28 / 42 achievements unlocked
+                                            30 / 42 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAABwEFAwYI/8QALhAAAQMCAwYFBAMAAAAAAAAAAQIDBAURAAYSEzEyQWFxISJRgaEUUoKRYrHB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDBP/EACcRAAECBAQGAwAAAAAAAAAAAAECBAADERMxQVFhBRQhcYGh0eHw/9oADAMBAAIRAxEAPwACyZldFTaVUaoXEU1tehKEcchf2p6brnrYdFqkZZfZbAhxoVKbtwttbR38lHn7nGfJlMitVSHEf1JiU1hpFkAX1q8VKA9eL94b6VEo9blIbjR9EKC3ZLZ8pcUo7zzsLe5OJPHimyrEggL91z7AbQ7FjzoM+dW2NPXk9MdYBa3lV99s/VxoVTRbhU3snvxUOfvghzflwUkolwitynuqKRrFltLG9CuuOzK25RINYejqhodjOMBDqWbXbXe4I9DbfgVz5SY7yqgw0DsZsdxdlAX1t2KVd7EX7YDF8XS+XnEFWu/wYZ/w5TACfKBtmmP7z0iMp1Np+UxJChs6lGbUhXIOIHmT38T+sWWb6rJgQ2Uw5LrD7i+JtRB0geP9jAdlLMwpbaoU9K3aetWsaDZbK/uSf8wkiqx67HZSZkScUDyOB0MvAHkpJFj8Ys5aFyq7LFScRnX7jI1nlpMAUSBqNMo27Kkx6XRkuSHluuBxQKlG534qM61JqNGmySoaYcZbd/V1y1k97D5GK8VuJQYKmXJsWGgkqUdpt3lH+IAsPnBhnTNBra240NCmacySUpUbqcUd61HmcBs1LZV1YpTAZ17QHE4u1kJJIOe0f//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAABwADBQYIAf/EACoQAAEDAwEGBwEBAAAAAAAAAAECAwQFBhEABxITMUFhFCEiUXFyoRYy/8QAGAEAAgMAAAAAAAAAAAAAAAAAAAECBQb/xAAiEQACAQMEAgMAAAAAAAAAAAABAgMABCERMkHwkaExUWH/2gAMAwEAAhEDEQA/AAVs8sr+iL1QqbrkaixlBC1tpy484eTTY6qOR8ZHvo/27s9TDbSYNLpNHbx5cZjxck/ZSjgHsCdObMaIzFTS4e6nh0qAy8E9DIfBUpw9wM4+dS9o15dyV6pPFxxESIotxmEghKhkpK1nqTjyHIA6zt1cvKx0OB33VxBAqKMZqCuPZ0mY2tU2mUqrIx5lhnwckfUpO6o9jjWfdoFnG23WZcF1yTSJKlJadWndW2sf6bcHRQ/dafu6vrtqvU14OOLiS1BuSwrJSkZCQtB6EZ8x1A1DbVqExKgVdgITuz4TsgjoJDGCFjuUnB98aLW5eFhqcHvqieBZF+M0tl1cYlCmTCoFuqQGWd4chIYBSps9yCSPjXLHdet2461R5BQI6HuICv0koWsBC8+2F/ms92BeardLsKoNLlUeQoLcaQrdW0scnGz0UP3RPq06Nej0WRGuSlyy01wkok4jv7uc+sHyUrvy7anNbGJyG2nnvinBOrqPurre7z1xXHRaPHKDHW9xCUeohCFkLXn2wj905tYrUeJTKtKKk4hQ3YwJ5F9/ACB7kJGT9hqlUaoQbHfkyplxU2Op1rhFqKBIe3c59IAwk9+XbQt2i3qu6JDUeG0uNSYxUWWVK3lrUebiz1UdENsZXAG0c98Up5wg/a//2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Mycology Badge</div>
+                                                <div>Megaentomology Badge</div>
                                                 <div class="unlocked">7 Sept 2025</div>
                                             </div>
-                                            <div class="description">Eat four different non-toxic mushrooms in a single expedition.</div>
+                                            <div class="description">Survive an Antlion attack.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABQcDCAECBv/EACoQAAIBAwQBAwQCAwAAAAAAAAECAwQFEQAGEiExBxNBIlFhcQgUgYLR/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAEDBf/EACIRAAEEAQMFAQAAAAAAAAAAAAEAAhEhBEFhcQMSEzGBUf/aAAwDAQACEQMRAD8ArftXbtVuOvMFMQkSAGWZgSEBOB0PJPwPnVi9p+gEDUcc9bBBCrL09e5Z2/PAEAa53ZdHDsfa8NweH+1I0q4HLjyqHUEZPwqgH8+fGdG/UTepuPNLZd7zVytGmKhMU0IcEl8JjmylcYyfIPnXQMYwDQAXak3Gw053WL3mYC33f/H6NaKWot0cMvAZLUTEMv8AoSQf8arnuSxVdguBpawAg9pIB04/79x8acu3N9bqscvu09xnlRcZSozIvffnyPjwes6k3/RRb32pLeYac0s8Dv7ilg2JlXLAH5VgR3qiMkFhADtCKnYxV6box5mCp7JXQ7x2WlJSyJTMsyTe9MDxSREClTgHr6h3350FutnutrKrW22piiwVFSimaLB8lGX6SPt31k6Xuyt5Ve2JGSNfdpXbmyA4YHGCQf0B0ejpsWb1Usrp3PPQyHtuDNDn98cqdVwGTHUYR3H2Ji/26vn4jmGaQi0We7XTIo7bUSREBTUODDFgeC7N9IGMZ77wNG9x1sGzvT+a31UyVM1VI8gliB4vIy44jIHQC+es6xd/VWxRJn3ai4Sr2vuO0uP1nAGlLvredZuuoQTIIqWI5jjHZz9zqMAxj5HkSPQmb+VXKNYZtf/Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwMEAgX/xAAuEAACAQMDAgMIAgMAAAAAAAABAgMEBREABiESQSIxkQcTFUJRUmGBFCMywdH/xAAXAQEBAQEAAAAAAAAAAAAAAAAAAQIE/8QAHxEAAQQBBQEAAAAAAAAAAAAAAgABAxEEEhMhMUHh/9oADAMBAAIRAxEAPwAL9nuzBfQ9wubPFaoWI8J6WmYckA9lHdv0OdMOz7FFXGaLa1rpIYYCFkqXHQM9hnBdjrxLtH8HsFttNOOiNIgjY4zgAt6uSTrfsO9NRLPRStKYC61SJTyFJnkXgKnZsg5Kngga6cPDGcN6Xm+m8pZEdTW6vvKwwUbxQ7ntlLIk/UI6hBkcefiADA8j66G9+7Rbb8sdVRs01snOEZuTGftJ7/g99LHtBulRVXd6Bnl/jUjkqkk3vT1tyx6v3gDyAGBrBTQC87Su1uqPEqQloyfl4JHoRq5mGEAb0XFdt5SpCwtbLq5TC77ftt0pz1RmIM+PlyAG9GBGs+2I1+M0tTNIsNNTSpLLIxwAAeAPycYH/Bo/2JvFrD10VejT2yU5KjloyfMrnzB7jSVQPaLlARaLrS9EjBzDIFODjH+Lcg4J0w8wIA2ZeK6fyviCTC1Oo7tpfc3uonjlSemqnaaGZGDBgTnGfqPIjVaeQWXZt3udT4RJEViB+YkED1J1Wtlsdqp4/jV1pmSNi608QUdRwATheSeBox9oO8n3JPHT0iNBbID/AFx93P3H/Q0zMwJw2Yub7fyvqhFqamX/2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Aeronautics Badge</div>
-                                                <div class="unlocked">27 Aug 2025</div>
+                                                <div>Toxicology Badge</div>
+                                                <div class="unlocked">7 Sept 2025</div>
                                             </div>
-                                            <div class="description">Achieve flight.</div>
+                                            <div class="description">Restore 200 total poison by using items.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+26 others...</div>
+                                            <div class="description ellipsis">+28 others...</div>
                                         </div>
                                     </div>
                                 </div>
