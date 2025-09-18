@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="768" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="783" class="">
     <defs>
         <style/>
     </defs>
@@ -257,15 +257,15 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAQQDAQAAAAAAAAAAAAAAAAECBgcEBQgD/8QAKxAAAQMEAAUDAwUAAAAAAAAAAQACAwQFBhEHEhMhMSJBUQhCYSYyNUNx/8QAGgEAAgMBAQAAAAAAAAAAAAAAAAEDBAYFAv/EACIRAAIBBAICAwEAAAAAAAAAAAABAgMEESESQQUxEyJDUf/aAAwDAQACEQMRAD8A5X8FO3ophSjuQENYY1tYN1ZLc+r2/emhSnpQ0kURe7wVjWFgbbW8vkpL/oUZIPqaNrm1X8lTBuLKhGztHVf8HzR0VftvU04/lRS70T6GdzPtPutnjQZPUPEj+4GwsnMGg08bgPB1tSwbhU4lC8hC9tXc9oipPMQPhI46KYDoJ4A0rr9mXScnkYUM/cEaQ3yh7Ensn1jBfamAdtErT5dM4ytYDoAey2lg/jWnfbax8lpGPh6wPfS5dPVc211mp49KL6MTGJIo+YlunEeVlZaQ6hgIcD6isex0bpqZp2GjafkdOIqNgBLtFS/qVYxkvHNdEUI0Uo1tISgkeyvIybS6EJ+ENSICYLR0jwRwazZJgcdbXsm6wme0lr9dgvLinieNWyottrt4mkuFTJyv1JsRN12cUcMcrkxLgia+KIzPbUy8rR7HfumVNOWut9DcXF98yV4bJMf6oj6m8vwf8Ubp7yWI304rib7hLw+tFXiImu0MpqG1EjOztbAPYrVcdcLtFlxOOot8UjJA4nbnbV4Wyjittvp6aCPljijDNn7nAaJVZ/Uc0HBRzHcgJPZCp9id3OS450clEoBSIUhXewQUbR5QBdeLxSTcBq98Tec0sr5HN/HMpvmFbR103DWronMlq+qxm2exDPBVUcI8yo7E6rs98aTari0RSuJ7Rje9roPFMXxSWWmrbLM+qhgPUiHPvpu+UZH9eyfN9TGMex3U1snfZVb9RJ/Qzn7bynbdHyrCut5t1sozNdaxlPFGSdu91zDxz4jxZdPDQ2vYoqdxPMD2ejkPlF+ioShBQg8n/9k=" alt="" />
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGwAAAwADAQEAAAAAAAAAAAAABAYHAwUIAgD/xAAsEAACAQMDAwMEAQUAAAAAAAABAgMABBEFEiEGEzEHQWEUQlFxMiJDcoGR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECA//EABoRAQEBAQEBAQAAAAAAAAAAAAABERICITH/2gAMAwEAAhEDEQA/APfoH6O29tbJrHUPcivxIRGm7HjxxXQlxOlvFuwQ0YwP0KypCqxqqKNoOQQPetV1TbT3Oj3aWzYmdNqkfmrjG3Wtvrr6hO4rKcnjH5pJ601xrPSLiSyZXZR4881pOj7rUbN9TtdWkOYAWTP7pC1jVCXmTvExO7YBPvWsrKwzdB+oE1y80Oo7I0X3xiqda3kV+ivaTIzKMgVy9ezqC0MeUkf3BqgdHa8bDUbRA7MpADZNOVHqK+4YHaRxnJqY+rfp3a6/pc2q6ezm+iH8M+f9VXLbtusbn+bc4oo28codI48DHIqfQ8fDZHOp4FD3hdeUwfihu+yjgYNDySSkkk8Vm2/Uj1iGKxuL545C0iEyMCc5yfFRnU72O8vJXA2kMTj2p29R9QuLPqy/jO5UljAAqc3azFmIjKqffFVqpAsswjk3YyQfNOuhrZXFhJc3DFC6hQQcYIpNW3kdRhc0dHJcSwQ2ESEHfngUpSvl1T0LZEdPwG5VzwNrMeSPam7txptxEcY5NK2hRSRaJYRysykRL7/FbJBISQXbaB+adRZguZXClUYIByd1Kt91fZW12YDkyLweeKkGs+oGp6xMJJ7kRrjG2P8ApzQ+i6lHPfASvsLffIc1OLw/azrFlqckiTWKNn+4VGf+0ha/p8MxX6ZAsYPNNCRWzJJLE3cTGCQa194lukILxv22PndVYNwmJpyIwXYxYc8U7dL3mnaRaRmSwEtwGzlgDWtEUQfCxt22+7Piscl9ZqqRRvyW25Jow9VKDrSybtwtEwY/PimS3u0dEdAWDewNQy7j7cQdd2fIbNBxdRalpM6yJM8iD7c0YNST66VOAxNFWmoS5yXbP7pXgvCeHPNexcOrZDcVHS8UKHqGaGDbDI3yM0PddQTTRFZ5nx+A1IxvnIxnbWF7pvdt1OehwtmhdYae9kkUrDIGMk1g1zUbGaaNrZkHPtUXF0ycKSK9jUJxyHPHzT6Ll0e93aG0iYyKcIOM/FL2qTWs5J3AD4NRJtSvfH1MuPxuNfSalcFNndkz/lR0OX//2Q==" alt="" />
                             <div class="about">
-                                <div class="name">Murky Divers</div>
+                                <div class="name">Arena Breakout: Infinite</div>
                                 <div class="infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                         </svg>
-                                        Action, Adventure, Indie
+                                        Action, Adventure, Massively Multiplayer, RPG, Strategy, Free To Play
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -273,7 +273,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        3 hours played
+                                        2 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -281,7 +281,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 14 Sept 2025
+                                        Last played on 18 Sept 2025
                                     </div>
                                 </div>
                                 <div class="achievements">
