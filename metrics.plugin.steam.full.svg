@@ -89,7 +89,7 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAABQEDBAYIB//EACoQAAEDBAADBwUAAAAAAAAAAAECAwQABQYRITFRBxIjYYGR8BMiQUKh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAv/EABgRAQEBAQEAAAAAAAAAAAAAAAEAEQJB/9oADAMBAAIRAxEAPwCrOLCQd1aMdwHIb+yH40YMsHkt3hv0pvs3s7d9zGLGkDbLfiKHXXL55VpW4ymrXZJTzYS21GYWsAcANJNIIr5ZhyvGZ+KzWItzU0XHkFxIQf1B1v3oRRXM785kuSPT17+mltDDYP4CU6PurvH1oTRkVg7ObyixZfFkvnTDnhqPTfL5513fOL03a8NuU9JQ6lTBQzsbStS/tSP7y8qzM4gKHEVPfvFykWlFskSnHISHA4EKO+IGh7bpHWGQeddhsdHdQB0p6kSNClozv//Z" alt="" />
+                                        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" alt="" />
                                         <div>
                                             <div class="name">
                                                 <div>Half Marathon</div>
@@ -99,7 +99,7 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAACAIDAAb/xAAsEAABBAECBQEIAwAAAAAAAAABAgMEEQASMQUGExQhYiMyNEJRUqGxcpGT/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAMBBP/EACARAAICAgEFAQAAAAAAAAAAAAECAAMRIRIxMkFRkaH/2gAMAwEAAhEDEQA/APLrVQylR5Qgd70V9t1ejr9datNb7ecycPtGx6h+8Q3DORHXFRZ3esFlQS/2qmwUay0EatruvzkLrXr7ULaP3wJRFUjZxD8xHlPQn5aGVmOwpCHFV7pVekVv5o/1koVe++IuXyE87OEpMyM00C2tyMhoaHC3qKSfF/McOz9jiEpJOzqh+cyi6yzHNOOv31Dqo6HMzWLeb/mn94q+HPup4dDCEkpDDexH2jCuoXtvlKkzCfjJH+hzqBAk4i+b+axy7EdkS3kC0hLMcJtbqjdm78AeMOKl9aQ68U6eosrr6WbznC68Ul91x2ttaiaygKHjBOYn/9k=" alt="" />
+                                        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" alt="" />
                                         <div>
                                             <div class="name">
                                                 <div>One Week</div>
@@ -154,7 +154,7 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABQYHCAECBP/EACcQAAEDAwMDBAMAAAAAAAAAAAECAwQABREGEiETIjEUQVFxQsHx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQID/8QAGhEAAgMBAQAAAAAAAAAAAAAAAQIAERIDIf/aAAwDAQACEQMRAD8AqpRLT8YzLtEYLCXkOOoQpK1FCcE45UPH3Q2m7TLrURMFIbjla5Lclxx8lIUlJOGwR4GQSTWfVsr5NOa6b2LdyaLMx1vpBoBRwgK3YGeOff7rlpmvxYdiONlthMqO4V9RrPKF7cIJ9yMk58+fNLNKNoQdcmZo5pqXPYuMUW95IcS6lSAVJGFZ8jdwDWuk3bYzdErvLXVj4xtPsfn+1PFpuugfQIDceEe3uHT5zj5FUy6FSVfJuV+vMuTKlLVLWjfuJIQEjJzye3gmh1TvqG76SWyvsYx+KS0P3UOahdgPTyu2NBpnGNo8fdIXIoQLaNmf/9k=" alt="" />
+                                        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" alt="" />
                                         <div>
                                             <div class="name">
                                                 <div>Elden Ring</div>
@@ -164,7 +164,7 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABwgCBAYF/8QAKhAAAQMCBAUEAwEAAAAAAAAAAQIDBAURAAYhMQcSE1FhFBVBcWKBscH/xAAYAQEAAwEAAAAAAAAAAAAAAAAFAQIDBv/EACARAAMAAgIBBQAAAAAAAAAAAAECAwAEBRIRFCExQWH/2gAMAwEAAhEDEQA/AFmoFKdrNUZhMLShbt7KVsLAn/MbN/hwqnBDs2el4bmPHbJcV48DufjEeF7HQmN1ExlPrCi2yE/Crak+NcECa9IkwGmW2UJdfXfplsXAJG9hdX77bY3RFCl3OG7OzXuJRHufvAvmOGiG4gJbS2FapA7eO/3jiYZx3gxTZuVKnLqM6TKrSlpLc1V08v4hF7EW+tsAnPGUZmVJ6WpJ6kdwEtO2tzgGx08HTBsuQhsOVmcV9NSSDvlWhZkl0dlxlpDbrC1cxbcuQD30IxveFM2fXsxypL7i1uRUofQkEJbRZYvpttpbzga0X0frk+436Gxtvg1ZVnZKpqGnmVJ57Dn01uP3i+2HeLIvzka6TSwoRjCRHG3cuSDe3wRa1la2/o1wtXHmnr6bElLyOhHc9MhsXJtqea+wFydN8FxHGbJsCjriluSObsAf7hduJ+bY2ZKgfbA61CCirpqAAJ7+TjnOL0tmVwzr4H7id7TKMAc//9k=" alt="" />
+                                        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" alt="" />
                                         <div>
                                             <div class="name">
                                                 <div>Legendary Sorceries and Incantations</div>
@@ -219,7 +219,7 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABgcIAwX/xAAvEAABAwIFAwIDCQAAAAAAAAABAgMEBREAEiExQQYHURNhFCIjMkJicYGh0fDx/8QAGQEAAgMBAAAAAAAAAAAAAAAAAAECAwQF/8QAHhEAAgIDAAMBAAAAAAAAAAAAAQIAAwQREiExQbH/2gAMAwEAAhEDEQA/AJfpcCRVKhHhQmy5IfWEIT7nz4HJODLpHttVepq61SYaFofUr6rjgyoZQPtLV5A8bm48437U0ZUuqKytu/EDKsOoOX0UDdRVsnjf9L7YfT9YfpEWRGoRaRJUz8TNnqZHzpGiUIGuwF7W9zqcc/JyyjcJ7murHLr0ZPHUPb+pUOpPQJrDqH2nFNhQF0uAbLH4SLEeQfY4EqlBkU6WuNLbLbqeDyDsR7HFWQupkV2OiLVG1OqabWqJOeQnMSCPUGVItl1Tpc863wi+58BaKlZ1DglJur502Sps7FKtlJ9x+xuMPHymduXHmFuPyvQmXbeUXZbkcOqbfNrKDmUBHJy/etpp/uDWqVqpQnFxXZBQ4gEW0Uy+kA6pO4J0BseddcJKO85HfQ8yopcQcySDaxwSDqt5bKkSEF1JAsheoBF9R4Op15GmLrKAzbI2PyRqvKDQjM6ZkSqnMRGakZMqFJN1D0Y7ZUNhuTpoP4wE9ynfhpqWvqpfNx87mcZOCBxc3/oxzD1a8hhltkFtLZzJSgAWJFiSeSdvy0wPVSoSapNclzXC48s6k8DgDwAMKujTb+QtvLjU/9k=" alt="" />
+                                        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" alt="" />
                                         <div>
                                             <div class="name">
                                                 <div>Smuggler at Sea</div>
@@ -229,7 +229,7 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABgcIAwX/xAAtEAABAwIFAgUDBQAAAAAAAAABAgMEBREAEiExQQZRBxMUImEjMqFCYtHw8f/EABkBAAIDAQAAAAAAAAAAAAAAAAABAgMEBf/EAB4RAAICAwEAAwAAAAAAAAAAAAECAAMEERIhMUGx/9oADAMBAAIRAxEAPwCX6XAkVSoR4UJsuSH1hCE/J79hyTgy6R8Nqr1NXWqVDQtD6lfVccGVDKB9y1fA7bm47438KaMqXVFZW3fUjKsOoOXyUDdRVsnjf87YfT9YfpEWRGoZaRJUz6mbPUyPekaJQga7AXtb5Opxz8nLKNwnzNdWMXXoyeOoegKlQ6k9AmsOofacU3mAulwDZY/aRYjuD8HAlUoMinS1xpbZbdTweQdiPg4qyF1Miux0Ram2p1TTa1RJzyE5iQR5gypFsuqdLnnW+EX4oQFoqdnUOCUklXvT7VNnYpVspO+o/BuMPHymduXHsLcflehMvDeUXZbkcOqbkG1lBzKAjk5f1Eaaf7g1qlaqUJxcV2RkcQCLaKZfSBuk7gnQGx511wkY7zkd9DrKilxBzJINrHBKOq3VsqRISXUkCyF6pBF9R2Ou/I0xc9AZtkbH5I13lB5GZ0zIlVOYmM1IyFKFJN1DyY7ZUPtG5Omg/jAT4lO+mmoa+ql83HvczjJwQOLm/wDRjmHq15DLLbN20tnMlKABYkWNzyTtftpgeqlQk1Sa5LmOFx5Z1J4HAHYAYVdGm39QtvLjU//Z" alt="" />
+                                        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" alt="" />
                                         <div>
                                             <div class="name">
                                                 <div>I'll Drink To That</div>
