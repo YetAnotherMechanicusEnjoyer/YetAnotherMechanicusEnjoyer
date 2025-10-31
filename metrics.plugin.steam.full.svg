@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="843" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="863" class="">
     <defs>
         <style/>
     </defs>
@@ -290,27 +290,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            2 / 46 achievements unlocked
+                                            4 / 46 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABgcIAwX/xAArEAACAQMDAwIFBQAAAAAAAAABAgMEBREABgcSITETQRQiMlFhI3FykaH/xAAYAQACAwAAAAAAAAAAAAAAAAAEBQECA//EACIRAAIBAwMFAQAAAAAAAAAAAAECAwAEEQUSISIxQXGBwf/aAAwDAQACEQMRAD8AlzRjx7tKm3JVrLcLglNboZemrWMFpo0xkPjHZCflL9wvkjGg7VH8X3LbFu44paauhNNdh1u0XoutTPKSeloiB1MSMAFfHjQd/M8MWUByeOK3tIlkfq7CllyZxw+0wtbba0XK1SYb1FUloVY4UuR8uCQQCD3x40v3RkYq6srD2YYOqCtdpvEWx9x1vIHwdshqKFoYiVSKWV/qUyqowWDAdPbqyTnSJucyTiCUNE8rp1SspcuXPkuW7Z/j21FlOzgox3EcZFWuolQhlGM+KMOELLFeuQ6EVSK9LRq9ZKrjKkIPlz+Oor/WqwtVclztdHXw59OoiWZM+QrDI/zUgbA3bHtSC/n4Z5aqvoGpIJFYD0mJ8n8ft9tNnbHNm3LTtm026ejurTUlJFA5SNOksqAHGX8dtLdVtZp5NyrnGAP2jdPuIok2scVydx3KkuHPFRR7nlaotdGRFSQyhngilKJ0llX2LE5P3Iz20vOVaAW/edXGlsgtyOokWOnm9WKQHP6iH2Bx9PscjW153xOOSLhufb5eAVEmVjnRT1xlVBR17gg40PblvtduO7SXC5yK8zgKqooVY0HhVA8AZ0wtrd42Q9htA++qDnmVww85z891/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAABAIDBQYHCP/EACoQAAIBAwMDAwMFAAAAAAAAAAECAwQFEQASIQYxQQcTYRVRcSIjgcHR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwIE/8QAIREAAwABAgcBAAAAAAAAAAAAAQIDAAQREhMhMUFhgeH/2gAMAwEAAhEDEQA/AOZqGkarkZUdV2jJJzwP7OcDGjIbWq3OCCpl/ZkBbcnBwM8c9jkY0T07bKqopaqtppYEWIFTHIM+5xkj48d/Ok2ikPUF5t1JUVEFItRKsKORhIlJ5Y/Az9/50rcM0DuMzAtWhRD6wKeiT6hNFDJsgUb1eQHlfvgaEqImgneJiCVOCR21LX+gFlvNxo4KuKqFLI0PuqMpIme4z4P+6au9nq6Gjpa6qeArWEsFjcMynvyB276lSKLxIMo7yYI579MFo6uWKNoo3kBJ/QFOBk8c60P0W6ktHTN4eW9SRIarFP7zoXWKEK7MeAeS4jX8Z1mkEhhnSQKG2MDg9jqXuF1irL3TVQWRIItnBAYjByeDxo7RXUSM3PfEnVoVDou/nL76vXy2dZX6CPpvZPPT7oFkjQoskGxGBJOMbW3j8Y1QLjcayGgFnmiSERECXByXI5HwBz476fe8RR36oqwXlilgaF2jHtlyVxnx5xqFq6iWsqpKiobdLI25j86qMk00uXMk+PmHSj6mvMooA6H7+Z//2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>New Fit, Who Dis?</div>
+                                                <div>Encounter of the Eighth Kind</div>
                                                 <div class="unlocked">31 Oct 2025</div>
                                             </div>
-                                            <div class="description">Purchase your first customization item.</div>
+                                            <div class="description">Encounter your eighth unique monster.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgABAAMAAwAAAAAAAAAAAAAABQIDBgQHCP/EAC0QAAICAQMCBQMDBQAAAAAAAAECAwQFBhEhABITFDFRYRUiQQdDcYGRkqGx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgMFBP/EACYRAAEDAwEIAwAAAAAAAAAAAAECAxEAITFRBAUiQWGh4fASFdH/2gAMAwEAAhEDEQA/APNFPHXLgJq1pZFHqwX7R/JPA6Uxump7krR+ZrBkHc6xt4pQfJH2j+rDq2fLWX0JWoIV8ulpkk9/QOg/jlv7dJ6QhhyGksrRQyebWZZ/DiQO0igbAdu47gDv/wB61ttIUoJzafFTnn3UoK8XjW0xJ/O9EX6VPCXFgv4+/LJwxEziJWX3AXff/LqWq0xUsdO7gYWhquGhkRgQRIux55PqGHPx0rrCbu0phobUCQ3Fkfwo1TsbwdvUqSSNz+PjrgrhpYtC2blmRYy1hJIoX+1thupPPv3f66JaLqQkWieo50tp2Qh1ZMzGbG8Y70pofAWZdPZTKZLD2ren1UMZI13IdN92UbgkAFt2HA6jR0pklv11xWn8rLYngNqBrMwg2i32DHtI2G+w5Yb9a7R0taz+klqPK5WpFWqo4hlr2DDZqufFIidf3FZjwB6h29uLfqSai0PXxjZeq+ZuYeId1q0qEul0uysxPDdvIB/A6iHeDyeAAWMTHLxn2atjd7RPzJPEJifc1iYcXrLJNkZaOLnjam7RWTFGFkV1G5XuY97MBzsCTt0FLp/OTxm1NTsSJ5P6gZZGBHlydhIST6Ejbb1+Ou7Yc1ib+pvqUGWoLUxmoLN2w0k6oWhNdUDoDy4LKRxv0Fn8pi8t+mVTB1LsEGTixNe6zeMoFhY3fes3sy794X8npf2D6yAoaa2n3vTBsTLYJR10vX//2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABQYCAwQHCP/EACoQAAEDAwIFBAIDAAAAAAAAAAECAwQFBhEAIQcSIjFRExRBYQhiMkKR/8QAFgEBAQEAAAAAAAAAAAAAAAAABAUG/8QAJREAAgIBAQcFAAAAAAAAAAAAAQIDEQAEEhMUITFBgRVRceHw/9oADAMBAAIRAxEAPwDl7RW2aY3VKq0w+6htkHKsqAKv1T5J1Oz6VHrl0UymTJQiR5T6WlvbdIPjO2T2H2dOt9WdBsviBS4VMqC1NOtCQPc4Upo5IwrGNjjIONHmnVW3V0xBOM0MIaVHcWu0AReI1yU1FLqrrDLqHGc5ThQJT+qvBGhetj2zS4dRuGspk+znPZCuVxpWAM/yTg75yO2ky540aFXpkaGctNuFP0D8gfQ7aYsLCBZSbvA6nUxtrpdPGtbJPxjlwFpUKrX0UVGG3NQxEdfbZcAKVLHKBsdj3OM/OinG6z1Jq0avW9T310ueylTvpNlQadB5SCP65228gjVX43EJv+QtRASinuqUT2A5kaN8Z7nn25fYZpj2abLiNSHoijzMvLKlHnKTkZOAT5xvqKzPx4VT28VlEBeDsjvifYdquvsvSZyH42XEpT1FClNjJWNvJAH+6t4r0+DFYgPx47bUlxZQSgYCkJSO4+ttZ1i1x2pVGrynm/SYUtPoRGAVJbKyVFKAd8dPz40O4rvCUinONIe5G1ONrK2ykBXScb/Ox1rKTg7A5/eY0NN6mFc8h7dOn7zn/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Big Spender</div>
+                                                <div>First Taste of Power</div>
                                                 <div class="unlocked">31 Oct 2025</div>
                                             </div>
-                                            <div class="description">Spend a total of 100,000 credits.</div>
+                                            <div class="description">Level up for the first time.</div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <div>
+                                            <div class="description ellipsis">+2 others...</div>
                                         </div>
                                     </div>
                                 </div>
