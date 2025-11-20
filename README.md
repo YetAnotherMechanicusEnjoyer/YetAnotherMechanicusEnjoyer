@@ -41,7 +41,7 @@
 
 ```yaml
 Omnissiah's Designation:      YetAnotherMechanicusEnjoyer
-Faction:                      Epitech Technology
+Faction:                      Epitech PGE
 Subsecteur:                   Holy Terra // Hive World: Bordeaux, France
 Alignment:                    Loyalist | Follower of the Machine God
 Primary Code-Rites:           C • Lua • Rust • JavaScript • Python
