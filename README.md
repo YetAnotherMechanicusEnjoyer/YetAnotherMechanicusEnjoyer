@@ -52,7 +52,24 @@ Blessed System:               Arch Linux (i use arch btw)
 ---
 
 ## 🛠️ ./Code-Rites.md
-<p align="center"> <img alt="Arch" src="https://img.icons8.com/?size=100&id=7seppVX8x2nf&format=png&color=000000" height="45" width="45"> <img alt="C" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="47" width="43"> <img alt="Rust" src="https://img.icons8.com/?size=100&id=U41Than0pWOW&format=png&color=FF4D00" height="50" width="50"> <img alt="Lua" src="https://img.icons8.com/?size=100&id=vFFJFfHoOHvj&format=png&color=000000" height="50" width="50"> <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="50"> <img alt="TS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/1200px-Typescript.svg.png" height="45" width="40"> <img alt="JS" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" height="50" width="50"> <img alt="Git" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" height="50" width="50"> <img alt="HTML" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" height="50" width="50"> <img alt="CSS" src="https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000" height="50" width="50"> <img alt="Java" src="https://i.ibb.co/Y4V0q2kF/java.png" height="42" width="38"> <img alt="SQL" src="https://i.ibb.co/0P7m7Ph/mysql.png" height="45" width="45"> <img alt="React" src="https://icon.icepanel.io/Technology/svg/React.svg" height="45" width="45"> </p>
+
+### OS
+<img alt="Arch" src="https://img.shields.io/badge/-Arch Linux-1793D1?logo=arch-linux&logoColor=white&style=for-the-badge"> 
+
+### Low-level
+<img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=for-the-badge"> <img alt="Rust" src="https://img.shields.io/badge/-Rust-FF4E00?logo=rust&logoColor=black&style=for-the-badge"> <img alt="Bash" src="https://img.shields.io/badge/-GNU Bash-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge">
+
+### High-level
+<img alt="Lua" src="https://img.shields.io/badge/-Lua-000080?logo=lua&logoColor=white&style=for-the-badge"> <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge"> <img alt="JDK" src="https://img.shields.io/badge/-JDK-000020?logo=openjdk&logoColor=white&style=for-the-badge"> <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-5FA04E?logo=node.js&logoColor=white&style=for-the-badge">
+
+### Tools
+<img alt="Git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge"> <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge"> 
+
+### Databases
+<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge"> <img alt="MariaDB" src="https://img.shields.io/badge/-MariaDB-003545?logo=mariadb&logoColor=white&style=for-the-badge"> 
+
+### Front
+<img alt="React" src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge"> <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge"> <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind CSS-06B6D4?logo=tailwind-css&logoColor=white&style=for-the-badge"> <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge"> <img alt="TS" src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge"> <img alt="JS" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"> <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge"> <img alt="CSS" src="https://img.shields.io/badge/-CSS-663399?logo=css&logoColor=white&style=for-the-badge">
 
 ---
 
