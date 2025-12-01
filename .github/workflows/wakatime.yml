@@ -15,9 +15,9 @@ jobs:
       - uses: athul/waka-readme@v0.3.1 # this action name
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          ### meta
+          # meta
           API_BASE_URL: https://wakatime.com/api # optional
-          ### content
+          # content
           SHOW_TITLE: true # optional
           CODE_LANG: rust # optional
           TIME_RANGE: all_time # optional
@@ -25,7 +25,7 @@ jobs:
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
           IGNORED_LANGUAGES: YAML JSON TOML # optional
-          ### commit
+          # commit
           COMMIT_MESSAGE: [UPDATE] waka-readme graph with new metrics # optional
           TARGET_BRANCH: main # optional
           TARGET_PATH: README.md # optional
