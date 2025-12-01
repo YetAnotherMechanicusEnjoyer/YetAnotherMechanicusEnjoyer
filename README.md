@@ -111,6 +111,15 @@ Blessed System:               Arch Linux (i use arch btw)
 
 <details open><summary>Wakatime</summary>
 <!--START_SECTION:waka-->
+
+```rust
+From: 30 November 2025 - To: 30 November 2025
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 </details>
 
