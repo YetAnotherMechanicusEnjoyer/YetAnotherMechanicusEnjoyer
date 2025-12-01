@@ -109,6 +109,11 @@ Blessed System:               Arch Linux (i use arch btw)
 <!--<img src="metrics.plugin.achievements.compact.svg">-->
 </details>
 
+<details open><summary>Wakatime</summary>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+</details>
+
 <details open><summary>Steam Stats</summary>
   <img src="./metrics.plugin.steam.full.svg">
 </details>
