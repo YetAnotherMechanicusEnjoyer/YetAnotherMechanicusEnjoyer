@@ -14,6 +14,7 @@ jobs:
     steps:
       - uses: athul/waka-readme@v0.3.1 # this action name
         with:
+          GH_TOKEN: ${{ secrets.SECRET_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           # meta
           API_BASE_URL: https://wakatime.com/api # optional
