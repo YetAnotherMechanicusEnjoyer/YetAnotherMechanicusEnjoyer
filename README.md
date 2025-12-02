@@ -113,11 +113,15 @@ Blessed System:               Arch Linux (i use arch btw)
 <!--START_SECTION:waka-->
 
 ```rust
-From: 30 November 2025 - To: 30 November 2025
+From: 30 November 2025 - To: 01 December 2025
 
-Total Time: 0 secs
+Total Time: 2 hrs 11 mins
 
-No activity tracked
+Other         3 hrs 11 mins   ██████████████▓░░░░░░░░░░   59.31 %
+Image (svg)   1 hr 25 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.65 %
+JavaScript    37 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.76 %
+YAML          7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
+Markdown      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
