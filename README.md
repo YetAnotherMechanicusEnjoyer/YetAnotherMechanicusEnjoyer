@@ -113,15 +113,22 @@ Blessed System:               Arch Linux (i use arch btw)
 <!--START_SECTION:waka-->
 
 ```rust
-From: 30 November 2025 - To: 01 December 2025
+From: 30 November 2025 - To: 02 December 2025
 
-Total Time: 2 hrs 11 mins
+Total Time: 8 hrs 8 mins
 
-Other         3 hrs 11 mins   ██████████████▓░░░░░░░░░░   59.31 %
-Image (svg)   1 hr 25 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.65 %
-JavaScript    37 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.76 %
-YAML          7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
-Markdown      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Other         8 hrs 37 mins   █████████████░░░░░░░░░░░░   51.46 %
+Image (svg)   3 hrs 39 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.80 %
+JavaScript    3 hrs           ████▒░░░░░░░░░░░░░░░░░░░░   17.99 %
+YAML          1 hr 1 min      █▓░░░░░░░░░░░░░░░░░░░░░░░   06.11 %
+Markdown      9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+TOML          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+Rust          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+Bash          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+gitignore     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Docker        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+JSON          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+bigfile       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
