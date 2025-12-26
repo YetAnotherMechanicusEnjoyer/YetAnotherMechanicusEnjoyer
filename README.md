@@ -113,23 +113,23 @@ Blessed System:               Arch Linux (i use arch btw)
 <!--START_SECTION:waka-->
 
 ```rust
-From: 30 November 2025 - To: 23 December 2025
+From: 30 November 2025 - To: 24 December 2025
 
-Total Time: 49 hrs 22 mins
+Total Time: 50 hrs 7 mins
 
-JavaScript    31 hrs 42 mins  ████████████░░░░░░░░░░░░░   48.10 %
-Other         16 hrs 33 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.11 %
-Image (svg)   5 hrs 46 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.77 %
-YAML          4 hrs 34 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
-Rust          2 hrs 45 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
-Bash          1 hr 18 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
-Docker        46 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
-Makefile      43 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
-tmux          28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+JavaScript    32 hrs 7 mins   ████████████░░░░░░░░░░░░░   48.19 %
+Other         16 hrs 33 mins  ██████▒░░░░░░░░░░░░░░░░░░   24.83 %
+Image (svg)   5 hrs 46 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.67 %
+YAML          4 hrs 34 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.86 %
+Rust          2 hrs 52 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
+Bash          1 hr 31 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
+Docker        46 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+Makefile      43 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+tmux          28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
 TOML          18 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
 Markdown      15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
-gitignore     14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
-Image (png)   7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+gitignore     14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+Image (png)   7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 hyprlang      6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 QML           5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 JSON          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
