@@ -57,10 +57,10 @@ Blessed System:               Arch Linux (i use arch btw)
 <img alt="Arch" src="https://img.shields.io/badge/-Arch Linux-1793D1?logo=arch-linux&logoColor=white&style=for-the-badge"> 
 
 ### Low-level
-<img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=for-the-badge"> <img alt="Rust" src="https://img.shields.io/badge/-Rust-FF4E00?logo=rust&logoColor=black&style=for-the-badge"> <img alt="Bash" src="https://img.shields.io/badge/-GNU Bash-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge">
+<img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=for-the-badge"> <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge"> <img alt="Rust" src="https://img.shields.io/badge/-Rust-FF4E00?logo=rust&logoColor=black&style=for-the-badge"> <img alt="WebAssembly" src="https://img.shields.io/badge/-WebAssembly-654FF0?logo=webassembly&logoColor=white&style=for-the-badge"> <img alt="Bash" src="https://img.shields.io/badge/-GNU Bash-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge">
 
 ### High-level
-<img alt="Lua" src="https://img.shields.io/badge/-Lua-000080?logo=lua&logoColor=white&style=for-the-badge"> <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge"> <img alt="JDK" src="https://img.shields.io/badge/-JDK-000020?logo=openjdk&logoColor=white&style=for-the-badge"> <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-5FA04E?logo=node.js&logoColor=white&style=for-the-badge">
+<img alt="Haskell" src="https://img.shields.io/badge/-Haskell-5D4F85?logo=haskell&logoColor=white&style=for-the-badge"> <img alt="Lua" src="https://img.shields.io/badge/-Lua-000080?logo=lua&logoColor=white&style=for-the-badge"> <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge"> <img alt="JDK" src="https://img.shields.io/badge/-JDK-000020?logo=openjdk&logoColor=white&style=for-the-badge"> <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-5FA04E?logo=node.js&logoColor=white&style=for-the-badge">
 
 ### Tools
 <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge"> <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge"> 
