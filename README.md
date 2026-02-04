@@ -113,7 +113,7 @@ Blessed System:               Arch Linux (i use arch btw)
 <!--START_SECTION:waka-->
 
 ```rust
-From: 30 November 2025 - To: 01 February 2026
+From: 30 November 2025 - To: 02 February 2026
 
 Total Time: 107 hrs 52 mins
 
