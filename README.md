@@ -63,7 +63,7 @@ Blessed System:               Arch Linux (i use arch btw)
 <img alt="Bash" src="https://img.shields.io/badge/-GNU Bash-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge"> <img alt="Haskell" src="https://img.shields.io/badge/-Haskell-5D4F85?logo=haskell&logoColor=white&style=for-the-badge"> <img alt="Lua" src="https://img.shields.io/badge/-Lua-000080?logo=lua&logoColor=white&style=for-the-badge"> <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge"> <img alt="JDK" src="https://img.shields.io/badge/-JDK-000020?logo=openjdk&logoColor=white&style=for-the-badge"> <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-5FA04E?logo=node.js&logoColor=white&style=for-the-badge"> 
 
 ### Tools
-<img alt="Git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge"> <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge"> 
+<img alt="Git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge"> <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"> <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge"> <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
 
 ### Databases
 <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge"> <img alt="MariaDB" src="https://img.shields.io/badge/-MariaDB-003545?logo=mariadb&logoColor=white&style=for-the-badge"> 
