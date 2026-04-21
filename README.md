@@ -54,16 +54,19 @@ Blessed System:               Arch Linux (i use arch btw)
 ## 🛠️ ./Code-Rites.md
 
 ### OS
-<img alt="Arch" src="https://img.shields.io/badge/-Arch Linux-1793D1?logo=arch-linux&logoColor=white&style=for-the-badge"> 
+<img alt="Arch" src="https://img.shields.io/badge/-Arch Linux-1793D1?logo=arch-linux&logoColor=white&style=for-the-badge">
+
+### Editor
+<img alt="Neovim" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">
 
 ### Low-level
-<img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=for-the-badge"> <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge"> <img alt="Rust" src="https://img.shields.io/badge/-Rust-FF4E00?logo=rust&logoColor=black&style=for-the-badge">
+<img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=for-the-badge"> <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge"> <img alt="Rust" src="https://img.shields.io/badge/-Rust-FF4E00?logo=rust&logoColor=black&style=for-the-badge"> <img alt="Assembly" src="https://img.shields.io/badge/-Assembly-007ACC?logo=&logoColor=white&style=for-the-badge">
 
 ### High-level
 <img alt="Bash" src="https://img.shields.io/badge/-GNU Bash-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge"> <img alt="Haskell" src="https://img.shields.io/badge/-Haskell-5D4F85?logo=haskell&logoColor=white&style=for-the-badge"> <img alt="Lua" src="https://img.shields.io/badge/-Lua-000080?logo=lua&logoColor=white&style=for-the-badge"> <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge"> <img alt="JDK" src="https://img.shields.io/badge/-JDK-000020?logo=openjdk&logoColor=white&style=for-the-badge"> <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-5FA04E?logo=node.js&logoColor=white&style=for-the-badge"> 
 
 ### Tools
-<img alt="Git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge"> <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"> <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge"> <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
+<img alt="Git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge"> <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"> <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge"> <img alt="Jenkins" src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"> <img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
 
 ### Databases
 <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge"> <img alt="MariaDB" src="https://img.shields.io/badge/-MariaDB-003545?logo=mariadb&logoColor=white&style=for-the-badge"> 
