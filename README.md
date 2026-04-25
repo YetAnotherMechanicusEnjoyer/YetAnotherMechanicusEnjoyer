@@ -44,8 +44,8 @@ Omnissiah's Designation:      YetAnotherMechanicusEnjoyer
 Faction:                      Epitech PGE
 Subsecteur:                   Holy Terra // Hive World: Bordeaux, France
 Alignment:                    Loyalist | Follower of the Machine God
-Primary Code-Rites:           C • Lua • Rust • JavaScript • Python
-Sacred Tools:                 Neovim & Ritual Plugins • Git • CSFML
+Primary Code-Rites:           Rust • C/C++ • Assembly • Lua • Bash
+Sacred Tools:                 Neovim & Ritual Plugins • Git/Github • Docker
 Blessed System:               Arch Linux (i use arch btw)
 ```
 
