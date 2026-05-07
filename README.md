@@ -116,26 +116,26 @@ Blessed System:               Arch Linux (i use arch btw)
 <!--START_SECTION:waka-->
 
 ```rust
-From: 30 November 2025 - To: 04 May 2026
+From: 30 November 2025 - To: 05 May 2026
 
-Total Time: 232 hrs 36 mins
+Total Time: 233 hrs 11 mins
 
-Rust             71 hrs 16 mins  ███████░░░░░░░░░░░░░░░░░░   28.33 %
-C++              44 hrs 13 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.58 %
-JavaScript       36 hrs 43 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.59 %
-C                24 hrs 26 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.71 %
-Other            19 hrs 1 min    ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 %
+Rust             71 hrs 16 mins  ███████░░░░░░░░░░░░░░░░░░   28.26 %
+C++              44 hrs 13 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.53 %
+JavaScript       36 hrs 43 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.56 %
+C                24 hrs 49 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.84 %
+Other            19 hrs 1 min    ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 %
 Makefile         8 hrs 20 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
-Bash             7 hrs 49 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
-YAML             7 hrs 34 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
+Bash             7 hrs 49 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
+YAML             7 hrs 34 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
 Image (svg)      5 hrs 52 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
 Haskell          3 hrs 28 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
-ca65 assembler   3 hrs 26 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+ca65 assembler   3 hrs 26 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
 hyprlang         2 hrs 46 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
 TOML             2 hrs 30 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+RGBDS Assembly   1 hr 47 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
 JSON             1 hr 40 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
 Markdown         1 hr 36 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
-RGBDS Assembly   1 hr 35 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
 gitignore        1 hr 9 mins     ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
 Assembly         1 hr 9 mins     ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
 CMake            1 hr 5 mins     ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
