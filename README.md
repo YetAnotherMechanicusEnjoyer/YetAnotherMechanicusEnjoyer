@@ -53,26 +53,91 @@ Blessed System:               Arch Linux (i use arch btw)
 
 ## 🛠️ ./Code-Rites.md
 
-### OS
-<img alt="Arch" src="https://img.shields.io/badge/-Arch Linux-1793D1?logo=arch-linux&logoColor=white&style=for-the-badge">
+### Linux & Customization
+<p>
+  <img alt="Arch" src="https://img.shields.io/badge/-Arch Linux-1793D1?logo=arch-linux&logoColor=white&style=for-the-badge">
+  <img alt="Hyprland" src="https://img.shields.io/badge/-Hyprland-58E1FF?logo=hyprland&logoColor=black&style=for-the-badge">
+  <img alt="Neovim" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">
+  <img alt="VimScript" src="https://img.shields.io/badge/-VimScript-019733?logo=vim&logoColor=white&style=for-the-badge">
+  <img alt="Bash" src="https://img.shields.io/badge/-GNU Bash-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge">
+</p>
 
-### Editor
-<img alt="Neovim" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">
+### Systems Programming
+<p>
+  <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=for-the-badge">
+  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge">
+  <img alt="Rust" src="https://img.shields.io/badge/-Rust-FF4E00?logo=rust&logoColor=black&style=for-the-badge">
+  <img alt="Assembly" src="https://img.shields.io/badge/-Assembly-6e4c13?style=for-the-badge">
+</p>
 
-### Low-level
-<img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=for-the-badge"> <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge"> <img alt="Rust" src="https://img.shields.io/badge/-Rust-FF4E00?logo=rust&logoColor=black&style=for-the-badge"> <img alt="Assembly" src="https://img.shields.io/badge/-Assembly-6e4c13?logo=&logoColor=white&style=for-the-badge">
+### Build Systems
+<p>
+  <img alt="GNU Make" src="https://img.shields.io/badge/-GNU Make-427819?logo=gnu&logoColor=white&style=for-the-badge">
+  <img alt="CMake" src="https://img.shields.io/badge/-CMake-064F8C?logo=cmake&logoColor=white&style=for-the-badge">
+</p>
 
-### High-level
-<img alt="Bash" src="https://img.shields.io/badge/-GNU Bash-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge"> <img alt="Haskell" src="https://img.shields.io/badge/-Haskell-5D4F85?logo=haskell&logoColor=white&style=for-the-badge"> <img alt="Lua" src="https://img.shields.io/badge/-Lua-000080?logo=lua&logoColor=white&style=for-the-badge"> <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge"> <img alt="JDK" src="https://img.shields.io/badge/-JDK-000020?logo=openjdk&logoColor=white&style=for-the-badge"> <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-5FA04E?logo=node.js&logoColor=white&style=for-the-badge"> 
+### Programming Languages
+<p>
+  <img alt="Haskell" src="https://img.shields.io/badge/-Haskell-5D4F85?logo=haskell&logoColor=white&style=for-the-badge">
+  <img alt="Lua" src="https://img.shields.io/badge/-Lua-000080?logo=lua&logoColor=white&style=for-the-badge">
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge">
+  <img alt="Java" src="https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge">
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge">
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge">
+</p>
 
-### Tools
-<img alt="Git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge"> <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"> <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge"> <img alt="Jenkins" src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"> <img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"> <img alt="Game Boy Developpement Kit" src="https://img.shields.io/badge/-GBDK-CC0000?logo=retroarch&logoColor=white&style=for-the-badge">
+### Graphics & Multimedia Programming
+<p>
+  <img alt="wgpu" src="https://img.shields.io/badge/-wgpu-40E0D0?logo=wgpu&logoColor=black&style=for-the-badge">
+  <img alt="Wayland" src="https://img.shields.io/badge/-Wayland-FFBC00?logo=wayland&logoColor=black&style=for-the-badge">
+  <img alt="SFML" src="https://img.shields.io/badge/-SFML-8CC445?logo=sfml&logoColor=white&style=for-the-badge">
+  <img alt="SDL2" src="https://img.shields.io/badge/-SDL2-092E20?style=for-the-badge">
+</p>
 
-### Databases
-<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge"> <img alt="MariaDB" src="https://img.shields.io/badge/-MariaDB-003545?logo=mariadb&logoColor=white&style=for-the-badge"> 
+### DevOps & Infrastructure
+<p>
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge">
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge">
+  <img alt="Jenkins" src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white">
+  <img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
+  <img alt="Ansible" src="https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=white&style=for-the-badge">
+</p>
 
-### Front
-<img alt="React" src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge"> <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge"> <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind CSS-06B6D4?logo=tailwind-css&logoColor=white&style=for-the-badge"> <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge"> <img alt="TS" src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge"> <img alt="JS" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"> <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge"> <img alt="CSS" src="https://img.shields.io/badge/-CSS-663399?logo=css&logoColor=white&style=for-the-badge"> <img alt="WebAssembly" src="https://img.shields.io/badge/-WebAssembly-654FF0?logo=webassembly&logoColor=white&style=for-the-badge">
+### Databases & Caching
+<p>
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge">
+  <img alt="MariaDB" src="https://img.shields.io/badge/-MariaDB-003545?logo=mariadb&logoColor=white&style=for-the-badge">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge">
+  <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge">
+</p>
+
+### Web Technologies
+<p>
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge">
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS-663399?logo=css&logoColor=white&style=for-the-badge">
+  <img alt="WebAssembly" src="https://img.shields.io/badge/-WebAssembly-654FF0?logo=webassembly&logoColor=white&style=for-the-badge">
+</p>
+
+### Frontend & Applications
+<p>
+  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge">
+  <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge">
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind CSS-06B6D4?logo=tailwind-css&logoColor=white&style=for-the-badge">
+  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge">
+  <img alt="Tauri" src="https://img.shields.io/badge/-Tauri-FFC131?logo=tauri&logoColor=black&style=for-the-badge">
+</p>
+
+### Terminal Applications
+<p>
+  <img alt="Ratatui" src="https://img.shields.io/badge/-Ratatui-000000?logo=ratatui&logoColor=white&style=for-the-badge">
+  <img alt="ncurses" src="https://img.shields.io/badge/-ncurses-006400?style=for-the-badge">
+</p>
+
+### Embedded & Retro Development
+<p>
+  <img alt="Game Boy Development Kit" src="https://img.shields.io/badge/-GBDK-CC0000?logo=retroarch&logoColor=white&style=for-the-badge">
+</p>
 
 ---
 
