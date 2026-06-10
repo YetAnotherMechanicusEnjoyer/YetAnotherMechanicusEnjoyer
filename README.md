@@ -67,7 +67,7 @@ Blessed System:               Arch Linux (i use arch btw)
   <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=for-the-badge">
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge">
   <img alt="Rust" src="https://img.shields.io/badge/-Rust-FF4E00?logo=rust&logoColor=black&style=for-the-badge">
-  <img alt="Assembly" src="https://img.shields.io/badge/-Assembly-6e4c13?style=for-the-badge">
+  <img alt="Assembly" src="https://img.shields.io/badge/-Assembly-6e4c13?logo=assemblyscript&logoColor=white&style=for-the-badge">
 </p>
 
 ### Build Systems
