@@ -64,10 +64,11 @@ Blessed System:               Arch Linux (i use arch btw)
 
 ### Systems Programming
 <p>
+  <img alt="Assembly" src="https://img.shields.io/badge/-Assembly-6e4c13?logo=assemblyscript&logoColor=white&style=for-the-badge">
   <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=for-the-badge">
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge">
   <img alt="Rust" src="https://img.shields.io/badge/-Rust-FF4E00?logo=rust&logoColor=black&style=for-the-badge">
-  <img alt="Assembly" src="https://img.shields.io/badge/-Assembly-6e4c13?logo=assemblyscript&logoColor=white&style=for-the-badge">
+  <img alt="Zig" src="https://img.shields.io/badge/-Zig-F7A41D?logo=zig&logoColor=black&style=for-the-badge">
 </p>
 
 ### Build Systems
@@ -84,6 +85,7 @@ Blessed System:               Arch Linux (i use arch btw)
   <img alt="Java" src="https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge">
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge">
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge">
+  <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=for-the-badge">
 </p>
 
 ### Graphics & Multimedia Programming
