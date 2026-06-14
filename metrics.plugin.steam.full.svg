@@ -257,15 +257,15 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAgIDAQEAAAAAAAAAAAAABgcBBQACBAMI/8QAOBAAAQMDAgMEBggHAAAAAAAAAQIDBAAFEQYHEiExFBdBUSJhcpGSsRMyM0JSVHGBCBUWJjZigv/EABoBAAIDAQEAAAAAAAAAAAAAAAMEAAEFAgb/xAAlEQABBAEEAQQDAAAAAAAAAAABAAIDBBEFEiFBExQxcZEkUaH/2gAMAwEAAhEDEQA/AKPcbW7+lZjTbTXETz5ig7vlmkqJYHMeQqN/c/zWOVKBOB8qU6uRycdKwNK0yvJWaXDlbd/UJ45iAU2e+Sag5bjj3CsO8s/PEY49wpTAeGDmru16YvVzQFQbc+8PNIpp+lUGAFzf6lmX7MhIBR93yziciOPcKzvkmn68cH9hQNcdIX+A0XJVsfbQOpIofUkoJCkkKqM0ujL1kfKt163ESCU2e+Sb91ge4USaF3ElajvTcV9sJz6qQKeoIpgbM89WNY65FAvaXWirvDG9IlS/K+UBxVzv2Cq7sHzA+VKgpyQBzNNff05ukf8Ab5UEbf25F11bbobgyhx0A5pjTpPwxL1yh3m77ZGUV6atdo0rDYu2qGS/LV6TEMHCvUT5g039B7g2TUT6Y0OGm2yxyDKgMueoY8aU+/NqlQdTId4FKhhlDaFgcgQOldu3M6Pd5FjgW62utS4j5cel8sBJHjWfdgjtQid2Sf3n2TNdzYZi3pNrXesrVphgJmMJkSlnAaODw/qKT18VpzXqnF2WKq3XdAzwKPovHySBW/8AEJb5iNVic6lS4qm0oBT0yKjbaZFuYs9tgW1wTo8guLlAcgD50KlVjq1xOwkn5Vzy+act6SplMrjyFsupKVoUUqHrFHGzGf6sbI8CKneq1N2jWbzLQHpNpWrHmetTsuf7tb8hitm1N5aZfjpJ12NjtgEq637PFdWAR0A5/tQLoi5u2fUkScyyX3GlZDaepo639JFzjoIwcD5UL7TqYRra3rkFCWAscRc5ilqLg3TuR0V3bINrjhM24bjyrg0UTtMvOjw40g1427cJ+2giFpZ1tR6lCADTbM+whRIchkeyKjt9iVzLkMf8ivMPuQsG0wn7K1AzczO8JVTtyJc9n6Gbpl5wf7pBrztu4L1tBTC0u42s/eSgA02e32ID7SGVeyKzt9iKea4YV7IrllyFw2iE/ZU2bWZLwvl7c6/v6j1B2yTFXFd4AngX15V37LgjVjfD4451178OxHdXccJTSmfo0/ZjHOuPZj/KkAH62ABXqpHB2nHAxwsqPAtDPKud/Dm6MKIIOB1/SlQhbiFcSFKSoeKTin5urpC4ajmtPQxkDA6UA91d9PEeDkB5UPTL9cVgC5Fv1JzP7IG7dL8JT/xmp7bM/NP49s0bjay+/hHw1t3W338I+GnRfpA8uCU9JOeigbtsz80/8ZqDOl+Mp/4zR13WX0/dHurXurvv4R8NQ36RPDgqNScdFAbjrjp4nFrWfNRzR7sucaqQeEkjFYdrL7wZCOX6UXbb6FulhvwlS04QAD0pa9qFf0zgHBNVak4mBwv/2Q==" alt="" />
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAgMAAwEAAAAAAAAAAAAABgcAAQMEBQgC/8QANBAAAQIFAwIDBQcFAAAAAAAAAQIDAAQFESEGBxIxQSIycRNRc4GxFBc3QmGR0SM0UnLh/8QAGgEAAgIDAAAAAAAAAAAAAAAABQYBBAACA//EADIRAAEDAgMGAwYHAAAAAAAAAAEAAgMEBREhMQYSEzNBYTJRcRQ0Q3KB8ERSc5GxwdH/2gAMAwEAAhEDEQA/APM3u4pNoq5TcXsrviL6EK6X6HtDr2l03RntJpq9SaBfDigpa8psOmIsU1Oah+4MkOulyZbYOM8E4kAAeZSlplDqlVsKdJOvp78RBxRdpatO8XJx9uUR3QtOYKavulRqWtbFKpwccSeIWyAkQDVrc6v1IKQh1tlnsAmxHzi5wqODxuLj20QX2q9VvJjETT1dmfv9l3FZ2gqMqC5IzjTwA8iRkwC1TTVYpRUZ2RdbaH5iOsdzRdxtQ0s+CYQ42TnmnlB1S926fNhLVZp11nBcUBx/aM3KKbwktPfRZxr3Q8xjZm9sikrkiwBA7XETuR0MP3XOnqBUdGz9YkmR7VDXNtTWAD6QgkkkC9iQMmKlVTGncGk4govaroy5Rue1paWnAg+ao9Ie+22do3r/AObkIgw99tfwje/3ciza+a70KGbV+6R/O3+0jZoWm37Y/qK+sZxpNf3b/wARX1jOBx1TM3whSKVkZi4o9IhSn702Zn/gfxCBR5B6Q/j+DU/8D+IQKPKPSCVy+H8oStsx+J/UP8BfWL8el+ph77a3+6OYyAAtzMIe/hBIuSciHls3UqbM6SNDfeAmStRLV82MRa+cQTqCt9q2uNE1wGIa5pPpmklNEfan8EJ9oevfMZm9xe1uwg215oSfoE27MtpL8itRVzSMJgJHe+b9D7opzRPicWvGaOUdVFVxCWF2IUFyfDb0ij+mR3A6xCbC1rK7mCXR+j6hqeaSGEFuUB8bxGI1jjdId1gxK6T1EVMwyyuAA6lNnP3LzxGR7H9oQKbBKU3uOtxHoPXczTNO6DmaIX0iYdZCEIv5jHnxPlItawwD3ghcxg5jeoCXNlSXxzSgYNc8kdwr6nlGkrMPSj/tpdakL96TYxn9Ils4OIGg4ZhNBAcMDonPoXcmXnmU0zUwb4kcQ6seE/8AY4+utsuaV1DTg9olY5hgZKr+6FAQL379v0g90JuHO0FxuWqClzEmTYZ8SfnBOKrZO3hVP0PVK1VZ56GQ1drOB6s6H0+/Rdjofa+bnX0v6gbVLMJOWVYUYKNW68pulpE0zT6WlzSRw5IAsn198DOvdzXqk2qUoxVLy6h43Cc/IwsHFKcXyeJUsnzHvEyVMdM3h02v5v8AFzp7XU3R4qbpk0aMGn1XIqc/NVSYU/OuqWskq8Rvb0jjHNlHoInU5MTvb8sCyccymxrQwbrdF//Z" alt="" />
                             <div class="about">
-                                <div class="name">R.E.P.O.</div>
+                                <div class="name">Due Process</div>
                                 <div class="infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                         </svg>
-                                        Action, Early Access
+                                        Action, Adventure, Indie, Simulation, Strategy, Early Access
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -273,7 +273,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        7 hours played
+                                        2 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
