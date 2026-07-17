@@ -54,6 +54,7 @@ Blessed System:               Arch Linux (i use arch btw)
 ## 🛠️ ./Code-Rites.md
 
 ### Linux & Customization
+
 <p>
   <img alt="Arch" src="https://img.shields.io/badge/-Arch Linux-1793D1?logo=arch-linux&logoColor=white&style=for-the-badge">
   <img alt="Hyprland" src="https://img.shields.io/badge/-Hyprland-58E1FF?logo=hyprland&logoColor=black&style=for-the-badge">
@@ -63,6 +64,7 @@ Blessed System:               Arch Linux (i use arch btw)
 </p>
 
 ### Systems Programming
+
 <p>
   <img alt="Assembly" src="https://img.shields.io/badge/-Assembly-6e4c13?logo=assemblyscript&logoColor=white&style=for-the-badge">
   <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=for-the-badge">
@@ -72,12 +74,14 @@ Blessed System:               Arch Linux (i use arch btw)
 </p>
 
 ### Build Systems
+
 <p>
   <img alt="GNU Make" src="https://img.shields.io/badge/-GNU Make-427819?logo=gnu&logoColor=white&style=for-the-badge">
   <img alt="CMake" src="https://img.shields.io/badge/-CMake-064F8C?logo=cmake&logoColor=white&style=for-the-badge">
 </p>
 
 ### Programming Languages
+
 <p>
   <img alt="Haskell" src="https://img.shields.io/badge/-Haskell-5D4F85?logo=haskell&logoColor=white&style=for-the-badge">
   <img alt="Lua" src="https://img.shields.io/badge/-Lua-000080?logo=lua&logoColor=white&style=for-the-badge">
@@ -89,6 +93,7 @@ Blessed System:               Arch Linux (i use arch btw)
 </p>
 
 ### Graphics & Multimedia Programming
+
 <p>
   <img alt="wgpu" src="https://img.shields.io/badge/-wgpu-40E0D0?logo=wgpu&logoColor=black&style=for-the-badge">
   <img alt="Wayland" src="https://img.shields.io/badge/-Wayland-FFBC00?logo=wayland&logoColor=black&style=for-the-badge">
@@ -97,6 +102,7 @@ Blessed System:               Arch Linux (i use arch btw)
 </p>
 
 ### DevOps & Infrastructure
+
 <p>
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge">
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
@@ -107,6 +113,7 @@ Blessed System:               Arch Linux (i use arch btw)
 </p>
 
 ### Databases & Caching
+
 <p>
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge">
   <img alt="MariaDB" src="https://img.shields.io/badge/-MariaDB-003545?logo=mariadb&logoColor=white&style=for-the-badge">
@@ -115,6 +122,7 @@ Blessed System:               Arch Linux (i use arch btw)
 </p>
 
 ### Web Technologies
+
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge">
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS-663399?logo=css&logoColor=white&style=for-the-badge">
@@ -122,6 +130,7 @@ Blessed System:               Arch Linux (i use arch btw)
 </p>
 
 ### Frontend & Applications
+
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge">
   <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge">
@@ -131,12 +140,14 @@ Blessed System:               Arch Linux (i use arch btw)
 </p>
 
 ### Terminal Applications
+
 <p>
   <img alt="Ratatui" src="https://img.shields.io/badge/-Ratatui-000000?logo=ratatui&logoColor=white&style=for-the-badge">
   <img alt="ncurses" src="https://img.shields.io/badge/-ncurses-006400?style=for-the-badge">
 </p>
 
 ### Embedded & Retro Development
+
 <p>
   <img alt="Game Boy Development Kit" src="https://img.shields.io/badge/-GBDK-CC0000?logo=retroarch&logoColor=white&style=for-the-badge">
 </p>
@@ -144,9 +155,10 @@ Blessed System:               Arch Linux (i use arch btw)
 ---
 
 ## 💀 ./Heresy-Detection.md
+>
 > [!WARNING]
 > Unverified subroutine detected from User : [Alexy33](https://github.com/Alexy33)
-> 
+>
 > Type: `repository_analysis`
 >
 > Status: `UNBLESSED CODE`
@@ -165,10 +177,14 @@ Blessed System:               Arch Linux (i use arch btw)
 ---
 
 ## 📊 ./User-Stats.html
+
 <details open><summary>Github Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=YetAnotherMechanicusEnjoyer&theme=radical&show_icons=true&hide_border=true&count_private=true"><img src="https://github-readme-streak-stats.herokuapp.com/?user=YetAnotherMechanicusEnjoyer&theme=radical&hide_border=true">
+
+![Stats](./profile/stats.svg)
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YetAnotherMechanicusEnjoyer&theme=radical" height="165"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YetAnotherMechanicusEnjoyer&theme=radical" height="165"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YetAnotherMechanicusEnjoyer&theme=radical&show_icons=true&hide_border=true&layout=compact" height="165">
+
+![Top Languages](./profile/top-langs.svg)
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YetAnotherMechanicusEnjoyer&theme=radical">
 
@@ -180,6 +196,9 @@ Blessed System:               Arch Linux (i use arch btw)
 </details>
 
 <details open><summary>Wakatime</summary>
+
+![Pinned](./profile/pin-stats-organization-github-readme-stats.svg)
+
 <!--START_SECTION:waka-->
 
 ```rust
@@ -219,8 +238,9 @@ gitignore                 2 hrs 8 mins    ░░░░░░░░░░░░�
 ---
 
 ## 📜 ./Omnissiah's-Wisdom.txt
+>
 > “There is no truth in flesh, only betrayal.”
-> 
+>
 > "A bug is a poorly formulated prayer."
 
 ---
