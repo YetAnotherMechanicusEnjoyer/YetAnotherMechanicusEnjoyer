@@ -19,7 +19,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true
+          options: username=${{ github.repository_owner }}&show_icons=true&bg_color=141321
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -27,16 +27,8 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&bg_color=141321
           path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Generate wakatime card
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: wakatime
-          options: username=${{ github.repository_owner }}&layout=compact
-          path: profile/wakatime.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
