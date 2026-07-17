@@ -197,7 +197,7 @@ Blessed System:               Arch Linux (i use arch btw)
 
 <details open><summary>Wakatime</summary>
 
-![Pinned](./profile/pin-stats-organization-github-readme-stats.svg)
+![Wakatime](./profile/wakatime.svg)
 
 <!--START_SECTION:waka-->
 
