@@ -44,7 +44,7 @@ Omnissiah's Designation:      YetAnotherMechanicusEnjoyer
 Faction:                      Epitech PGE
 Subsecteur:                   Holy Terra // Hive World: Bordeaux, France
 Alignment:                    Loyalist | Follower of the Machine God
-Primary Code-Rites:           Rust • C/C++ • Assembly • Lua • Bash
+Primary Code-Rites:           Rust • C/C++ • Assembly • Zig • TypeScript
 Sacred Tools:                 Neovim & Ritual Plugins • Git/Github • Docker
 Blessed System:               Arch Linux (i use arch btw)
 ```
@@ -149,7 +149,7 @@ Blessed System:               Arch Linux (i use arch btw)
 ### Embedded & Retro Development
 
 <p>
-  <img alt="Game Boy Development Kit" src="https://img.shields.io/badge/-GBDK-CC0000?logo=retroarch&logoColor=white&style=for-the-badge">
+  <img alt="GameBoy Development Kit" src="https://img.shields.io/badge/-GBDK-CC0000?logo=retroarch&logoColor=white&style=for-the-badge">
 </p>
 
 ---
@@ -182,7 +182,7 @@ Blessed System:               Arch Linux (i use arch btw)
 
 ![Stats](./profile/stats.svg)
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YetAnotherMechanicusEnjoyer&theme=radical" height="165"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YetAnotherMechanicusEnjoyer&theme=radical" height="165"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YetAnotherMechanicusEnjoyer&theme=radical&show_icons=true&hide_border=true&layout=compact" height="165">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YetAnotherMechanicusEnjoyer&theme=radical" height="165"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YetAnotherMechanicusEnjoyer&theme=radical" height="165">
 
 ![Top Languages](./profile/top-langs.svg)
 
