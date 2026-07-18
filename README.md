@@ -199,27 +199,27 @@ Blessed System:               Arch Linux (i use arch btw)
 <!--START_SECTION:waka-->
 
 ```rust
-From: 30 November 2025 - To: 15 July 2026
+From: 30 November 2025 - To: 16 July 2026
 
-Total Time: 452 hrs 37 mins
+Total Time: 455 hrs 27 mins
 
-Rust                      177 hrs 56 mins █████████▒░░░░░░░░░░░░░░░   37.59 %
-C++                       65 hrs 5 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.75 %
-C                         54 hrs 21 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.48 %
-JavaScript                36 hrs 53 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 %
-Zig                       21 hrs 52 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
-Other                     20 hrs 43 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
-Makefile                  13 hrs 21 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
-YAML                      9 hrs 37 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
-Bash                      9 hrs 10 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
-Go                        7 hrs 27 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
-TOML                      6 hrs 37 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
-Image (svg)               5 hrs 52 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+Rust                      180 hrs 41 mins █████████▒░░░░░░░░░░░░░░░   37.95 %
+C++                       65 hrs 5 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.67 %
+C                         54 hrs 21 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.42 %
+JavaScript                36 hrs 53 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 %
+Zig                       21 hrs 52 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
+Other                     20 hrs 43 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
+Makefile                  13 hrs 21 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
+YAML                      9 hrs 37 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
+Bash                      9 hrs 10 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
+Go                        7 hrs 27 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
+TOML                      6 hrs 42 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+Image (svg)               5 hrs 52 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
 hyprlang                  4 hrs 58 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
 JSON                      4 hrs 14 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
-TypeScript                3 hrs 54 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+TypeScript                3 hrs 54 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
 Haskell                   3 hrs 28 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
-ca65 assembler            3 hrs 26 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+ca65 assembler            3 hrs 26 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
 Markdown                  3 hrs 11 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
 RGBDS Assembly            2 hrs 53 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
 gitignore                 2 hrs 8 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
