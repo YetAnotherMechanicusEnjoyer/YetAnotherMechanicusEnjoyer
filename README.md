@@ -95,6 +95,7 @@ Blessed System:               Arch Linux (i use arch btw)
 ### Graphics & Multimedia Programming
 
 <p>
+  <img alt="Bevy" src="https://img.shields.io/badge/-Bevy-232326?logo=bevy&logoColor=white&style=for-the-badge">
   <img alt="wgpu" src="https://img.shields.io/badge/-wgpu-40E0D0?logo=wgpu&logoColor=black&style=for-the-badge">
   <img alt="Wayland" src="https://img.shields.io/badge/-Wayland-FFBC00?logo=wayland&logoColor=black&style=for-the-badge">
   <img alt="SFML" src="https://img.shields.io/badge/-SFML-8CC445?logo=sfml&logoColor=white&style=for-the-badge">
