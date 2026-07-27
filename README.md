@@ -156,9 +156,17 @@ Blessed System:               Arch Linux (i use arch btw)
 ---
 
 ## 💀 ./Heresy-Detection.md
->
 > [!WARNING]
-> Unverified subroutine detected from User : [Alexy33](https://github.com/Alexy33)
+> Unverified subroutine detected from User: [YetAnotherFactsEnjoyer](https://github.com/YetAnotherFactsEnjoyer)
+>
+> Type: `technology_analysis`
+>
+> Status: `UNHOLY WORK`
+>
+> Actions: `Web dev shall be burned & destroyed`
+
+> [!WARNING]
+> Unverified subroutine detected from User: [Alexy33](https://github.com/Alexy33)
 >
 > Type: `repository_analysis`
 >
@@ -167,7 +175,7 @@ Blessed System:               Arch Linux (i use arch btw)
 > Actions: `Unholy code shall be erased at all cost`
 
 > [!CAUTION]
-> Unauthorized subroutine detected from User : [TsukiNi22](https://github.com/TsukiNi22)
+> Unauthorized subroutine detected from User: [TsukiNi22](https://github.com/TsukiNi22)
 >
 > Type: `system_analysis`
 >
@@ -183,15 +191,18 @@ Blessed System:               Arch Linux (i use arch btw)
 
 ![Stats](./profile/stats.svg)
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YetAnotherMechanicusEnjoyer&theme=radical" height="165"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YetAnotherMechanicusEnjoyer&theme=radical" height="165">
+![Repos per Language](./profile-summary-card-output/radical/1-repos-per-language.svg)
+![Most Commit Language](./profile-summary-card-output/radical/2-most-commit-language.svg)
+
 
 ![Top Languages](./profile/top-langs.svg)
+![Productive Time](./profile-summary-card-output/radical/4-productive-time.svg)
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YetAnotherMechanicusEnjoyer&theme=radical">
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YetAnotherMechanicusEnjoyer&theme=radical)
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=YetAnotherMechanicusEnjoyer&theme=radical"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YetAnotherMechanicusEnjoyer&theme=radical&utcOffset=+2">
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=YetAnotherMechanicusEnjoyer&theme=radical)
 
-<img src="metrics.plugin.isocalendar.fullyear.svg">
+![Isocalendar](./metrics.plugin.isocalendar.fullyear.svg)
 
 <!--<img src="metrics.plugin.achievements.compact.svg">-->
 </details>
@@ -230,7 +241,7 @@ gitignore                 2 hrs 14 mins   ░░░░░░░░░░░░�
 </details>
 
 <details open><summary>Steam Stats</summary>
-  <img src="./metrics.plugin.steam.full.svg">
+  <img src="./metrics.plugin.steam.full.svg" alt="Steam">
 </details>
 
 ---
@@ -243,7 +254,9 @@ gitignore                 2 hrs 14 mins   ░░░░░░░░░░░░�
 
 ---
 
-<p align="center"> <img src="https://64.media.tumblr.com/b92ee183a5914d030ddbfd149aa90d9c/tumblr_nxe14k0dGL1tzqkfdo1_540.gifv" alt="Techprist" width="300" /> </p>
+<p align="center">
+  <img src="https://64.media.tumblr.com/b92ee183a5914d030ddbfd149aa90d9c/tumblr_nxe14k0dGL1tzqkfdo1_540.gifv" alt="Techpriest" width="300" />
+</p>
 
 ---
 
