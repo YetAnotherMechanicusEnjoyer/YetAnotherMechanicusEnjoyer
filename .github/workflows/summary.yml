@@ -32,6 +32,6 @@ jobs:
           # ANIMATION is optional; bake a CSS animation into the cards: none | fade | rise | draw | stagger | load | sequence | tint | rgb | rgb-soft. Empty = no animation.
           ANIMATION: "rgb-soft"
           # DURATION is optional; animation speed in seconds (0.2–10). Only applies when ANIMATION is set. Empty = preset default.
-          DURATION: "10"
+          DURATION: ""
           # NAME is optional; override the displayed name/title on the profile-details card (elided to ~22 chars). Empty = default "login (name)".
           NAME: ""
