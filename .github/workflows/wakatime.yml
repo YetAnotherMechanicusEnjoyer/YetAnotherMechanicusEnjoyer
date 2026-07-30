@@ -27,7 +27,7 @@ jobs:
           SHOW_TOTAL: true # optional
           IGNORED_LANGUAGES: YAML JSON TOML # optional
           # commit
-          COMMIT_MESSAGE: "[UPDATE] waka-readme graph with new metrics" # optional
+          COMMIT_MESSAGE: "update: waka-readme graph with new metrics" # optional
           TARGET_BRANCH: main # optional
           TARGET_PATH: README.md # optional
           COMMITTER_NAME: Servo Skull # optional
