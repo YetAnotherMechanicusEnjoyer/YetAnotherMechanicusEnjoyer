@@ -3,6 +3,9 @@ name: Update README cards
 on:
   schedule:
     - cron: "0 0 * * *"
+  push:
+    paths:
+      - ".github/workflows/stats.yml"
   workflow_dispatch:
 
 jobs:
