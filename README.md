@@ -156,6 +156,7 @@ Blessed System:               Arch Linux (i use arch btw)
 ---
 
 ## 💀 ./Heresy-Detection.md
+>
 > [!WARNING]
 > Unverified subroutine detected from User: [YetAnotherFactsEnjoyer](https://github.com/YetAnotherFactsEnjoyer)
 >
@@ -191,9 +192,10 @@ Blessed System:               Arch Linux (i use arch btw)
 
 ![Stats](./profile/stats.svg)
 
+![Streak](./profile/streak.svg)
+
 ![Repos per Language](./profile-summary-card-output/radical/1-repos-per-language.svg)
 ![Most Commit Language](./profile-summary-card-output/radical/2-most-commit-language.svg)
-
 
 ![Top Languages](./profile/top-langs.svg)
 ![Productive Time](./profile-summary-card-output/radical/4-productive-time.svg)
