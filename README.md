@@ -200,9 +200,9 @@ Blessed System:               Arch Linux (i use arch btw)
 ![Top Languages](./profile/top-langs.svg)
 ![Productive Time](./profile-summary-card-output/radical/4-productive-time.svg)
 
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YetAnotherMechanicusEnjoyer&theme=radical)
+![Profile Details](./profile-summary-card-output/radical/0-profile-details.svg)
 
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=YetAnotherMechanicusEnjoyer&theme=radical)
+![Stats](./profile-summary-card-output/radical/3-stats.svg)
 
 ![Isocalendar](./metrics.plugin.isocalendar.fullyear.svg)
 
