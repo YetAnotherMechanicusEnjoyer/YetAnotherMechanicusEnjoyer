@@ -111,6 +111,7 @@ Blessed System:               Arch Linux (i use arch btw)
   <img alt="Jenkins" src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white">
   <img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
   <img alt="Ansible" src="https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=white&style=for-the-badge">
+  <img alt="Cloudflare" src="https://img.shields.io/badge/-Cloudflare-F38020?logo=cloudflare&logoColor=white&style=for-the-badge">
 </p>
 
 ### Databases & Caching
