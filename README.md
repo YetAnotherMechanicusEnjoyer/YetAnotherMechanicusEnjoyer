@@ -214,20 +214,20 @@ Blessed System:               Arch Linux (i use arch btw)
 <!--START_SECTION:waka-->
 
 ```rust
-From: 30 November 2025 - To: 19 September 2026
+From: 30 November 2025 - To: 20 September 2026
 
-Total Time: 573 hrs 56 mins
+Total Time: 574 hrs 30 mins
 
-Rust                      217 hrs 45 mins █████████░░░░░░░░░░░░░░░░   36.56 %
-C++                       65 hrs 13 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.95 %
-Zig                       61 hrs 10 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.27 %
-C                         54 hrs 22 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.13 %
-JavaScript                36 hrs 59 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
+Rust                      217 hrs 45 mins █████████░░░░░░░░░░░░░░░░   36.52 %
+C++                       65 hrs 13 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.94 %
+Zig                       61 hrs 14 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.27 %
+C                         54 hrs 22 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.12 %
+JavaScript                36 hrs 59 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.20 %
 Other                     21 hrs 40 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
 Bash                      17 hrs 13 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
 YAML                      16 hrs 8 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
+sh                        13 hrs 36 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
 Makefile                  13 hrs 21 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
-sh                        13 hrs 6 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
 TOML                      7 hrs 57 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
 Go                        7 hrs 27 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
 TypeScript                7 hrs 16 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
