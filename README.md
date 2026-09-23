@@ -214,9 +214,9 @@ Blessed System:               Arch Linux (i use arch btw)
 <!--START_SECTION:waka-->
 
 ```rust
-From: 30 November 2025 - To: 20 September 2026
+From: 30 November 2025 - To: 21 September 2026
 
-Total Time: 574 hrs 30 mins
+Total Time: 574 hrs 32 mins
 
 Rust                      217 hrs 45 mins █████████░░░░░░░░░░░░░░░░   36.52 %
 C++                       65 hrs 13 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.94 %
@@ -224,7 +224,7 @@ Zig                       61 hrs 14 mins  ██▓░░░░░░░░░�
 C                         54 hrs 22 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.12 %
 JavaScript                36 hrs 59 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.20 %
 Other                     21 hrs 40 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
-Bash                      17 hrs 13 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
+Bash                      17 hrs 15 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
 YAML                      16 hrs 8 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
 sh                        13 hrs 36 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
 Makefile                  13 hrs 21 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
