@@ -214,25 +214,25 @@ Blessed System:               Arch Linux (i use arch btw)
 <!--START_SECTION:waka-->
 
 ```rust
-From: 30 November 2025 - To: 21 September 2026
+From: 30 November 2025 - To: 22 September 2026
 
-Total Time: 574 hrs 32 mins
+Total Time: 574 hrs 45 mins
 
-Rust                      217 hrs 45 mins █████████░░░░░░░░░░░░░░░░   36.52 %
+Rust                      217 hrs 45 mins █████████░░░░░░░░░░░░░░░░   36.51 %
 C++                       65 hrs 13 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.94 %
 Zig                       61 hrs 14 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.27 %
 C                         54 hrs 22 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.12 %
 JavaScript                36 hrs 59 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.20 %
-Other                     21 hrs 40 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
+Other                     21 hrs 41 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
 Bash                      17 hrs 15 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
-YAML                      16 hrs 8 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
+YAML                      16 hrs 9 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
 sh                        13 hrs 36 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
 Makefile                  13 hrs 21 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
-TOML                      7 hrs 57 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
+TOML                      7 hrs 57 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
 Go                        7 hrs 27 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
 TypeScript                7 hrs 16 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
 Image (svg)               5 hrs 55 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
-JSON                      5 hrs 16 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+JSON                      5 hrs 16 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
 hyprlang                  4 hrs 48 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
 Markdown                  4 hrs 4 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
 Haskell                   3 hrs 28 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
