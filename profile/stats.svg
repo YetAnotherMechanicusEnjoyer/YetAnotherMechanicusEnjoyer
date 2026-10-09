@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">YetAnotherMechanicusEnjoyer&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 71, Total Commits  (last year) : 1373, Total PRs: 65, Total Issues: 20, Contributed to (last year): 13</desc>
+        <desc id="descId">Total Stars Earned: 70, Total Commits  (last year) : 1378, Total PRs: 66, Total Issues: 20, Contributed to (last year): 14</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 84.11878320732042;
+        stroke-dashoffset: 84.04314431742601;
       }
     }
   
@@ -169,7 +169,7 @@
         x="224.01"
         y="12.5"
         data-testid="stars"
-      >71</text>
+      >70</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -199,7 +199,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >65</text>
+      >66</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -229,7 +229,7 @@
         x="224.01"
         y="12.5"
         data-testid="contribs"
-      >13</text>
+      >14</text>
     </g>
   </g>
     </svg>
