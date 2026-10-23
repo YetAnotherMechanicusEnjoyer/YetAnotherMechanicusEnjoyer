@@ -214,19 +214,19 @@ Blessed System:               Arch Linux (i use arch btw)
 <!--START_SECTION:waka-->
 
 ```rust
-From: 30 November 2025 - To: 20 October 2026
+From: 30 November 2025 - To: 21 October 2026
 
-Total Time: 608 hrs 34 mins
+Total Time: 608 hrs 50 mins
 
-Rust                      217 hrs 54 mins ████████▓░░░░░░░░░░░░░░░░   34.57 %
-C++                       78 hrs 47 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.50 %
+Rust                      217 hrs 54 mins ████████▓░░░░░░░░░░░░░░░░   34.55 %
+C++                       78 hrs 47 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.49 %
 Zig                       71 hrs 23 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   11.32 %
-C                         54 hrs 33 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 %
+C                         54 hrs 33 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 %
 JavaScript                36 hrs 59 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 %
 Other                     21 hrs 50 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
-Bash                      17 hrs 31 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
-YAML                      17 hrs 15 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
-sh                        15 hrs 43 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
+Bash                      17 hrs 33 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
+YAML                      17 hrs 23 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
+sh                        15 hrs 43 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
 Makefile                  13 hrs 44 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
 TOML                      8 hrs 11 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
 TypeScript                7 hrs 48 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
@@ -235,7 +235,7 @@ Image (svg)               5 hrs 55 mins   ▒░░░░░░░░░░░�
 JSON                      5 hrs 22 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
 CMake                     4 hrs 49 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
 hyprlang                  4 hrs 48 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
-Markdown                  4 hrs 17 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+Markdown                  4 hrs 23 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
 Lua                       3 hrs 31 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
 Haskell                   3 hrs 28 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
 ```
