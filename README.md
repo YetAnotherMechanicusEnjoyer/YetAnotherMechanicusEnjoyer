@@ -214,15 +214,15 @@ Blessed System:               Arch Linux (i use arch btw)
 <!--START_SECTION:waka-->
 
 ```rust
-From: 30 November 2025 - To: 27 October 2026
+From: 30 November 2025 - To: 28 October 2026
 
-Total Time: 614 hrs 12 mins
+Total Time: 614 hrs 31 mins
 
-Rust                      217 hrs 54 mins ████████▓░░░░░░░░░░░░░░░░   34.26 %
-C++                       78 hrs 47 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.39 %
+Rust                      217 hrs 54 mins ████████▓░░░░░░░░░░░░░░░░   34.24 %
+C++                       78 hrs 47 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.38 %
 Zig                       76 hrs 10 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.97 %
-C                         54 hrs 33 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 %
-JavaScript                36 hrs 59 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
+C                         54 hrs 33 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 %
+JavaScript                36 hrs 59 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
 Other                     21 hrs 53 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
 Bash                      17 hrs 34 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
 YAML                      17 hrs 23 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
@@ -236,7 +236,7 @@ JSON                      5 hrs 25 mins   ▒░░░░░░░░░░░�
 CMake                     4 hrs 49 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
 hyprlang                  4 hrs 48 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
 Markdown                  4 hrs 23 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
-Lua                       3 hrs 31 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+Lua                       3 hrs 50 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
 Haskell                   3 hrs 28 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
 ```
 
